@@ -1,0 +1,21 @@
+[0623/154820.372:ERROR:cache_util_win.cc(20)] Unable to move the cache: ????? (0x5)
+[0623/154820.373:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/19573/Documents/GitHub/Jasmine_R/Saved/webcache_4430\Cache to C:/Users/19573/Documents/GitHub/Jasmine_R/Saved/webcache_4430\old_Cache_000
+[0623/154820.373:ERROR:disk_cache.cc(184)] Unable to create cache
+[0623/154820.386:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0623/154820.387:ERROR:entry_impl.cc(1075)] No file for c1030000
+[0623/154820.387:WARNING:storage_block-inl.h(146)] Failed data load.
+[0623/154820.387:WARNING:storage_block-inl.h(146)] Failed data load.
+[0623/154820.387:WARNING:storage_block-inl.h(146)] Failed data load.
+[0623/154820.387:WARNING:storage_block-inl.h(146)] Failed data load.
+[0623/154820.387:ERROR:entry_impl.cc(1075)] No file for c1030004
+[0623/154820.387:WARNING:storage_block-inl.h(146)] Failed data load.
+[0623/154820.387:WARNING:storage_block-inl.h(146)] Failed data load.
+[0623/154820.387:WARNING:storage_block-inl.h(146)] Failed data load.
+[0623/154820.387:WARNING:storage_block-inl.h(146)] Failed data load.
+[0623/154820.387:ERROR:entry_impl.cc(1075)] No file for c1030002
+[0623/154820.387:WARNING:storage_block-inl.h(146)] Failed data load.
+[0623/154820.387:WARNING:storage_block-inl.h(146)] Failed data load.
+[0623/154820.387:WARNING:storage_block-inl.h(146)] Failed data load.
+[0623/154830.703:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0623/154833.486:WARNING:sqlite_persistent_store_backend_base.cc(171)] Failed to post task from FlushAndNotifyInBackground@../../net/extras/sqlite/sqlite_persistent_store_backend_base.cc:220 to client_task_runner_.
+[0623/154833.486:WARNING:sqlite_persistent_store_backend_base.cc(171)] Failed to post task from FlushAndNotifyInBackground@../../net/extras/sqlite/sqlite_persistent_store_backend_base.cc:220 to client_task_runner_.
