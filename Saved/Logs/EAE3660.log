@@ -1234,3 +1234,211 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.02-20.02.38:311][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.035280 secs
 [2024.07.02-20.02.38:492][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2024.07.02-20.02.40:851][167]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.022 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 569 files in 1025 folders with total size 57 MiB.
+[2024.07.02-20.04.36:091][992]LogSlate: Window 'Message Log' being destroyed
+[2024.07.02-20.04.36:094][992]LogSlate: Window 'Message Log' being destroyed
+[2024.07.02-20.04.36:997][ 98]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.07.02-20.04.40:311][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.07.02-20.04.40:738][491]LogStaticMesh: Display: Building static mesh WaterInfoMesh_14...
+[2024.07.02-20.04.40:738][491]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_15...
+[2024.07.02-20.04.40:739][491]LogTexture: Display: Building textures: /Water/Textures/Normals/T_Water_TilingNormal_With_Height_02_Softened.T_Water_TilingNormal_With_Height_02_Softened (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:740][491]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/Village.Village:PersistentLevel.WaterBodyOcean_0.WaterInfoMesh_14
+[2024.07.02-20.04.40:740][491]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/Village.Village:PersistentLevel.WaterBodyOcean_0.WaterInfoDilatedMesh_15
+[2024.07.02-20.04.40:740][491]LogStaticMesh: Display: Building static mesh WaterInfoMesh_14...
+[2024.07.02-20.04.40:741][491]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_15...
+[2024.07.02-20.04.40:742][491]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/Village.Village:PersistentLevel.WaterBodyOcean_0.WaterInfoMesh_14
+[2024.07.02-20.04.40:743][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:743][491]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/Village.Village:PersistentLevel.WaterBodyOcean_0.WaterInfoDilatedMesh_15
+[2024.07.02-20.04.40:744][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:757][491]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.02-20.04.40:757][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:758][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:759][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Heightmap_3 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:760][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_113 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:761][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_83 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:762][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_80 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:762][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_81 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:762][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_108 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:762][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_112 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:762][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_109 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:763][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_67 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:763][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_85 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:763][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_86 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:763][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_88 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:763][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_68 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:763][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_87 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:764][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_107 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:764][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_70 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:764][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_89 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:764][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_105 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:764][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_114 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:764][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_115 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:764][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_110 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:764][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_69 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:764][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_66 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:765][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_84 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:765][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_90 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:765][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_104 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:765][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_73 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:765][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_111 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:765][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_71 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:765][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_116 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:766][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_75 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:766][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_106 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:766][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:766][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_117 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:766][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_96 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:766][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_97 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:766][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_77 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:766][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_78 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:766][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_118 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:767][491]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_119 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:771][491]LogTexture: Display: Building textures: /Water/Icons/WaterBodyOceanSprite.WaterBodyOceanSprite (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:773][491]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/43/13/85fd72e1ec7a781dd19bfc7f8e8a201a24a6.udd from '/Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Heightmap_5'.
+[2024.07.02-20.04.40:773][491]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/43/13/85fd72e1ec7a781dd19bfc7f8e8a201a24a6.udd from '/Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Heightmap_12'.
+[2024.07.02-20.04.40:775][491]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/59/9b/9e27c17c4887d7844ed664cdceb3e22f4975.udd from '/Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_82'.
+[2024.07.02-20.04.40:775][491]LogAssetEditorSubsystem: Opening Asset editor for World /Game/JR/Level/Village.Village
+[2024.07.02-20.04.40:775][491]Cmd: MAP LOAD FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Village.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.02-20.04.40:775][491]LightingResults: New page: Lighting Build
+[2024.07.02-20.04.40:775][491]LoadErrors: New page: Loading map: Village.umap
+[2024.07.02-20.04.40:776][491]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/1d/33/341c98a2e9d4322dc3ef960607042d3b2f72.udd from '/Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_91'.
+[2024.07.02-20.04.40:776][491]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/1d/33/341c98a2e9d4322dc3ef960607042d3b2f72.udd from '/Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_92'.
+[2024.07.02-20.04.40:792][491]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Soild_Clay_pjEaP0/T_Soild_Clay_pjEaP0_2K_N.T_Soild_Clay_pjEaP0_2K_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 487.562488 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:793][491]LogTexture: Display: Building textures: /Water/Textures/Foam/T_WaterFlow_01_Foam_Tiled_N.T_WaterFlow_01_Foam_Tiled_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:821][491]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Detailed_Mossy_Rock_Texture_xicmef1r/T_Detailed_Mossy_Rock_Texture_xicmef1r_2K_N.T_Detailed_Mossy_Rock_Texture_xicmef1r_2K_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 487.562488 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:829][491]LogTexture: Display: Building textures: /Water/Textures/Foam/T_WaterFlow_01_Foam_Tiled.T_WaterFlow_01_Foam_Tiled (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:838][491]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Soild_Clay_pjEaP0/T_Soild_Clay_pjEaP0_2K_D.T_Soild_Clay_pjEaP0_2K_D (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 346.145823 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:850][491]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Detailed_Mossy_Rock_Texture_xicmef1r/T_Detailed_Mossy_Rock_Texture_xicmef1r_2K_D.T_Detailed_Mossy_Rock_Texture_xicmef1r_2K_D (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 346.145823 MB), EncodeSpeed: Fast
+[2024.07.02-20.04.40:855][491]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.07.02-20.04.40:855][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.02-20.04.40:859][491]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.07.02-20.04.40:860][491]MapCheck: New page: Map Check
+[2024.07.02-20.04.40:860][491]LightingResults: New page: Lighting Build
+[2024.07.02-20.04.40:863][491]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.02-20.04.40:895][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.07.02-20.04.41:487][491]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/dc/ac/34c29be7ce7057576e229da6adde5248c6cf.udd from '/Game/JR/Level/Village.Village:PersistentLevel.WaterBodyOcean_0.WaterInfoMesh_14'.
+[2024.07.02-20.04.41:511][491]LogWorld: UWorld::CleanupWorld for Village, bSessionEnded=true, bCleanupResources=true
+[2024.07.02-20.04.41:511][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.02-20.04.41:526][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.07.02-20.04.41:528][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.07.02-20.04.41:547][491]LogAudio: Display: Audio Device (ID: 1) registered with world 'Village'.
+[2024.07.02-20.04.41:547][491]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.02-20.04.41:547][491]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.02-20.04.41:547][491]LogAIModule: Creating AISystem for world Village
+[2024.07.02-20.04.41:626][491]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.02-20.04.41:630][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.07.02-20.04.41:632][491]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.02-20.04.41:632][491]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.055ms to complete.
+[2024.07.02-20.04.58:166][244]LogViewport: Scene viewport resized to 1170x900, mode Windowed.
+[2024.07.02-20.05.29:733][900]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.02-20.05.32:457][197]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Megascans/Surfaces/Detailed_Mossy_Rock_Texture_xicmef1r/NewMaterial.NewMaterial
+[2024.07.02-20.05.32:475][197]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.02-20.05.32:476][197]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.02-20.05.32:625][197]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.02-20.05.32:625][197]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.07.02-20.05.32:625][197]MaterialEditorStats: Shader Count: 0
+[2024.07.02-20.05.32:631][197]LogSlate: Took 0.000499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.07.02-20.05.32:632][197]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.07.02-20.05.32:720][199]MaterialEditorStats: Base pass shader: 180 instructions
+[2024.07.02-20.05.32:720][199]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.07.02-20.05.32:720][199]MaterialEditorStats: Texture samplers: 2/16
+[2024.07.02-20.05.32:720][199]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.07.02-20.05.32:720][199]MaterialEditorStats: Shader Count: 4
+[2024.07.02-20.05.39:277][924]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.07.02-20.06.10:261][520]LogTexture: Display: Building textures: /Engine/Transient.Texture2D_7 (G8, 128x128 x1x1x1) (Required Memory Estimate: 0.432286 MB), EncodeSpeed: Fast
+[2024.07.02-20.06.10:370][521]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: ================================================
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Total job queries 4,278, among them cache hits 12 (0.28%)
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Tracking 4,001 distinct input hashes that result in 2,791 distinct outputs (69.76%)
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: RAM used: 74.93 MiB of 1.60 GiB budget. Usage: 4.57%
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Shaders Compiled: 4,001
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Jobs assigned 4,112, completed 4,001 (97.30%)
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Average time worker was idle: 3.39 s
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Time job spent in pending queue: average 43.96 s, longest 107.12 s
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Job execution time: average 3.21 s, max 12.70 s
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Job life time (pending + execution): average 48.39 s, max 109.65
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Shader code size: average 38.435 KiB, min 2.086 KiB, max 162.84 KiB
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 126.87 s
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Jobs were issued in 739 batches (only local compilation was used), average 5.56 jobs/batch
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Average processing rate: 31.54 jobs/sec
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Total thread time: 1,416.329 s
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Total thread preprocess time: 98.004 s
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Percentage time preprocessing: 6.92%
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Effective parallelization: 11.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.68 sec, max 5.30 sec, min 3.62 sec)
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 4.67 sec, max 8.32 sec, min 1.59 sec)
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.70 sec, max 1.70 sec, min 1.70 sec)
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.65 sec, max 3.02 sec, min 0.90 sec)
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 1.50 sec, max 1.50 sec, min 1.50 sec)
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.73% of total time (compiled  134 times, average 1.34 sec, max 1.72 sec, min 1.11 sec)
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.11% of total time (compiled   96 times, average 0.75 sec, max 1.25 sec, min 0.50 sec)
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.36% of total time (compiled   96 times, average 0.64 sec, max 1.01 sec, min 0.16 sec)
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.93% of total time (compiled  128 times, average 0.44 sec, max 0.76 sec, min 0.15 sec)
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS - 3.84% of total time (compiled   33 times, average 1.65 sec, max 3.02 sec, min 0.90 sec)
+[2024.07.02-20.06.10:996][590]LogShaderCompilers: Display: ================================================
+[2024.07.02-20.06.13:959][872]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.06.18:679][150]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.00:364][342]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.14:163][621]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.24:086][580]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:060][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.02-20.07.47:084][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_105 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:084][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_106 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:084][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_110 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:084][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_112 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:085][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_115 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:085][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_116 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:086][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_119 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:086][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_83 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:086][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_84 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:086][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_85 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:087][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_87 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:087][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_89 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:087][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_90 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:087][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:088][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_97 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:088][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/Village" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Village.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.02-20.07.47:537][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.07.02-20.07.47:544][133]LogPackageLocalizationCache: Processed 49 localized package path(s) for 1 prioritized culture(s) in 0.003701 seconds
+[2024.07.02-20.07.47:548][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:549][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:550][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:551][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:552][133]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.07.47:634][133]LogSavePackage: Moving output files for package: /Game/JR/Level/Village
+[2024.07.02-20.07.47:634][133]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/Village649F5D584CE76841099E91AC08924C69.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Village.umap'
+[2024.07.02-20.07.47:638][133]LogFileHelpers: All files are already saved.
+[2024.07.02-20.07.47:640][133]LogFileHelpers: Saving map 'Village' took 0.551
+[2024.07.02-20.07.47:648][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 587 ms
+[2024.07.02-20.07.47:650][133]AssetCheck: New page: Asset Save: Village
+[2024.07.02-20.07.47:650][133]LogContentValidation: Display: Validating /Script/Engine.World /Game/JR/Level/Village.Village
+[2024.07.02-20.07.58:998][346]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.08.38:573][512]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.08.44:902][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.02-20.08.44:917][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/Village" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Village.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.02-20.08.44:929][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.07.02-20.08.44:931][117]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.08.44:932][117]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.08.44:933][117]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.08.44:934][117]LogTexture: Display: Building textures: /Game/JR/Level/Village.Village:PersistentLevel.Landscape_0.Weightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.07.02-20.08.45:017][117]LogSavePackage: Moving output files for package: /Game/JR/Level/Village
+[2024.07.02-20.08.45:018][117]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/VillageAAA31A514C55A3B2BD6F2FB5DE942EE3.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Village.umap'
+[2024.07.02-20.08.45:020][117]LogFileHelpers: All files are already saved.
+[2024.07.02-20.08.45:021][117]LogFileHelpers: Saving map 'Village' took 0.105
+[2024.07.02-20.08.45:029][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 715 ms)
+[2024.07.02-20.08.45:031][117]AssetCheck: New page: Asset Save: Village
+[2024.07.02-20.08.45:031][117]LogContentValidation: Display: Validating /Script/Engine.World /Game/JR/Level/Village.Village
+[2024.07.02-20.08.46:304][245]LogViewport: Scene viewport resized to 1526x900, mode Windowed.
+[2024.07.02-20.08.47:975][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.02-20.08.47:990][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/Village" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Village.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.02-20.08.48:002][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.07.02-20.08.48:084][426]LogSavePackage: Moving output files for package: /Game/JR/Level/Village
+[2024.07.02-20.08.48:084][426]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/Village189865C647725F3CE793C3BEB1612E74.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Village.umap'
+[2024.07.02-20.08.48:086][426]LogFileHelpers: All files are already saved.
+[2024.07.02-20.08.48:087][426]LogFileHelpers: Saving map 'Village' took 0.098
+[2024.07.02-20.08.48:095][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 835 ms)
+[2024.07.02-20.08.48:096][426]AssetCheck: New page: Asset Save: Village
+[2024.07.02-20.08.48:096][426]LogContentValidation: Display: Validating /Script/Engine.World /Game/JR/Level/Village.Village
