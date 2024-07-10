@@ -1415,3 +1415,15 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.07.10-21.06.06:483][975]LogNavigation: Warning: Exporting collision geometry with too many triangles (381247). This might cause performance and memory issues. Add a simple collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/JR/Level/Village.Village:PersistentLevel.StaticMeshActor_22.StaticMeshComponent0'.
 [2024.07.10-21.06.36:533][846]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.069 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8439 files in 10519 folders with total size 5782 MiB.
 [2024.07.10-21.06.42:268][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.07.10-21.06.43:489][  6]LogSlate: Window '保存内容' being destroyed
+[2024.07.10-21.06.43:496][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.10-21.06.43:518][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/Village" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Village.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.10-21.06.43:541][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.07.10-21.06.43:547][  6]LogPackageLocalizationCache: Processed 50 localized package path(s) for 2 prioritized culture(s) in 0.005836 seconds
+[2024.07.10-21.06.43:651][  6]LogSavePackage: Moving output files for package: /Game/JR/Level/Village
+[2024.07.10-21.06.43:651][  6]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/VillageFD3A8B9741427042AF557498728D3A93.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Village.umap'
+[2024.07.10-21.06.43:654][  6]LogFileHelpers: 所有文件已保存。
+[2024.07.10-21.06.43:657][  6]LogFileHelpers: Saving map 'Village' took 0.140
+[2024.07.10-21.06.43:663][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms
+[2024.07.10-21.06.43:665][  6]AssetCheck: New page: 资产保存：Village
+[2024.07.10-21.06.43:665][  6]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/JR/Level/Village.Village
