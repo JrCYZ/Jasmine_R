@@ -1990,3 +1990,5 @@ Landscape
 [2024.07.11-19.50.03:352][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 311 ms (total: 1.70 sec)
 [2024.07.11-19.50.03:355][333]AssetCheck: New page: Asset Save: Village
 [2024.07.11-19.50.03:355][333]LogContentValidation: Display: Validating /Script/Engine.World /Game/JR/Level/Village.Village
+[2024.07.11-19.50.50:783][639]LogSlate: Window 'Message Log' being destroyed
+[2024.07.11-19.50.50:785][639]LogSlate: Window 'Message Log' being destroyed
