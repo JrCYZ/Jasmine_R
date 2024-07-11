@@ -39522,3 +39522,12 @@ Landscape
 [2024.07.11-02.40.38:775][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 368 ms (total: 20.3 sec)
 [2024.07.11-02.40.38:778][115]AssetCheck: New page: 资产保存：Village
 [2024.07.11-02.40.38:778][115]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/JR/Level/Village.Village
+[2024.07.11-02.41.15:246][719]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.07.11-02.41.27:291][ 36]LogSlate: Took 0.003866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.07.11-02.41.37:242][ 36]LogSlate: Window '为系统选择一个起始点' being destroyed
+[2024.07.11-02.41.37:255][ 36]LogAutomationController: Ignoring very large delta of 12.28 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.11-02.42.24:385][338]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/JR/Viking/locator6.locator6
+[2024.07.11-02.42.24:390][338]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.11-02.42.24:390][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.11-02.42.24:699][338]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.07.11-02.42.32:134][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
