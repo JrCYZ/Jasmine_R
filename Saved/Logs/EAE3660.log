@@ -1327,3 +1327,869 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.07.12-01.05.29:652][262]LogNavigationPoint: PostEditMove Clear paths rebuilt
 [2024.07.12-01.05.44:458][345]LogNavigationPoint: PostEditMove Clear paths rebuilt
 [2024.07.12-01.05.50:634][372]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.06.12:301][458]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.06.16:630][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-01.06.16:689][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/Villiage" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Villiage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-01.06.16:716][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.07.12-01.06.16:722][480]LogPackageLocalizationCache: Processed 50 localized package path(s) for 1 prioritized culture(s) in 0.004460 seconds
+[2024.07.12-01.06.16:784][480]LogSavePackage: Moving output files for package: /Game/JR/Level/Villiage
+[2024.07.12-01.06.16:784][480]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/Villiage3311E70E4934242F37BA018DC24CB8DD.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Villiage.umap'
+[2024.07.12-01.06.16:787][480]LogFileHelpers: All files are already saved.
+[2024.07.12-01.06.16:791][480]LogFileHelpers: Saving map 'Villiage' took 0.102
+[2024.07.12-01.06.16:902][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 272 ms
+[2024.07.12-01.06.16:905][480]AssetCheck: New page: Asset Save: Villiage
+[2024.07.12-01.06.16:905][480]LogContentValidation: Display: Validating /Script/Engine.World /Game/JR/Level/Villiage.Villiage
+[2024.07.12-01.06.27:641][529]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-01.06.27:649][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-01.06.27:649][529]PIE: New page: PIE session: Villiage (Jul 11, 2024, 1:06:27 PM)
+[2024.07.12-01.06.27:673][529]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.06.27:683][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010451s)
+[2024.07.12-01.06.27:683][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/Villiage.Villiage to /Game/JR/Level/UEDPIE_0_Villiage.Villiage (0.010482s)
+[2024.07.12-01.06.27:686][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.07.12-01.06.27:687][529]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-01.06.27:687][529]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-01.06.27:687][529]LogAIModule: Creating AISystem for world Villiage
+[2024.07.12-01.06.27:688][529]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2024.07.12-01.06.27:688][529]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.07.12-01.06.27:688][529]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-01.06.27:688][529]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-01.06.27:688][529]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-01.06.27:688][529]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-01.06.27:688][529]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-01.06.27:688][529]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-01.06.27:688][529]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-01.06.27:688][529]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-01.06.27:688][529]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-01.06.27:688][529]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-01.06.27:688][529]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-01.06.27:689][529]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-01.06.27:702][529]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-01.06.27:702][529]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-01.06.27:702][529]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-01.06.27:702][529]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-01.06.27:703][529]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.07.12-01.06.27:703][529]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.07.12-01.06.27:704][529]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.07.12-01.06.27:704][529]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.07.12-01.06.27:704][529]LogInit: FAudioDevice initialized with ID 3.
+[2024.07.12-01.06.27:704][529]LogAudio: Display: Audio Device (ID: 3) registered with world 'Villiage'.
+[2024.07.12-01.06.27:704][529]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.07.12-01.06.27:883][529]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-01.06.27:890][529]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_Villiage.Villiage up for play (max tick rate 0) at 2024.07.11-19.06.27
+[2024.07.12-01.06.27:892][529]LogWorld: Bringing up level for play took: 0.008956
+[2024.07.12-01.06.27:894][529]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2024.07.12-01.06.27:896][529]PIE: Server logged in
+[2024.07.12-01.06.27:897][529]PIE: Play in editor total start time 0.247 seconds.
+[2024.07.12-01.06.45:883][953]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.088 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8214 files in 10232 folders with total size 4368 MiB.
+[2024.07.12-01.07.24:223][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.07.24:223][907]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.07.24:223][907]LogWorld: UWorld::CleanupWorld for Villiage, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-01.07.24:223][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.07.24:552][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-01.07.24:554][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.07.24:557][907]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.12-01.07.24:557][907]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.07.12-01.07.24:557][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.07.12-01.07.24:558][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.07.12-01.07.24:561][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.07.24:564][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.07.12-01.07.24:965][908]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2024.07.12-01.07.31:597][938]LogViewport: Scene viewport resized to 2476x1800, mode Windowed.
+[2024.07.12-01.07.31:634][939]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-01.07.36:732][957]LogShaderCompilers: Display: ================================================
+[2024.07.12-01.07.36:732][957]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.12-01.07.36:732][957]LogShaderCompilers: Display: Total job queries 1,288, among them cache hits 1,218 (94.57%)
+[2024.07.12-01.07.36:732][957]LogShaderCompilers: Display: Tracking 70 distinct input hashes that result in 57 distinct outputs (81.43%)
+[2024.07.12-01.07.36:732][957]LogShaderCompilers: Display: RAM used: 1.92 MiB of 1.60 GiB budget. Usage: 0.12%
+[2024.07.12-01.07.36:732][957]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.12-01.07.36:732][957]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.07.12-01.07.36:732][957]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.07.12-01.07.36:732][957]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.07.12-01.07.36:732][957]LogShaderCompilers: Display: ================================================
+[2024.07.12-01.09.37:745][818]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-01.09.37:783][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/Villiage" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Villiage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-01.09.37:815][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.07.12-01.09.37:877][818]LogSavePackage: Moving output files for package: /Game/JR/Level/Villiage
+[2024.07.12-01.09.37:878][818]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/VilliageA282EED8407845A079ABD0B68AAAC10D.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Villiage.umap'
+[2024.07.12-01.09.37:881][818]LogFileHelpers: All files are already saved.
+[2024.07.12-01.09.37:884][818]LogFileHelpers: Saving map 'Villiage' took 0.101
+[2024.07.12-01.09.37:910][818]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 436 ms)
+[2024.07.12-01.09.37:912][818]AssetCheck: New page: Asset Save: Villiage
+[2024.07.12-01.09.37:912][818]LogContentValidation: Display: Validating /Script/Engine.World /Game/JR/Level/Villiage.Villiage
+[2024.07.12-01.09.40:803][886]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-01.09.40:808][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-01.09.40:808][886]PIE: New page: PIE session: Villiage (Jul 11, 2024, 1:09:40 PM)
+[2024.07.12-01.09.40:808][886]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.09.40:819][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012105s)
+[2024.07.12-01.09.40:820][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/Villiage.Villiage to /Game/JR/Level/UEDPIE_0_Villiage.Villiage (0.012134s)
+[2024.07.12-01.09.40:823][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.07.12-01.09.40:823][886]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-01.09.40:823][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-01.09.40:824][886]LogAIModule: Creating AISystem for world Villiage
+[2024.07.12-01.09.40:824][886]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2024.07.12-01.09.40:824][886]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.07.12-01.09.40:824][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-01.09.40:824][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-01.09.40:824][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-01.09.40:824][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-01.09.40:824][886]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-01.09.40:824][886]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-01.09.40:824][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-01.09.40:824][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-01.09.40:825][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-01.09.40:825][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-01.09.40:825][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-01.09.40:826][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-01.09.40:839][886]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-01.09.40:840][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-01.09.40:840][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-01.09.40:840][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-01.09.40:840][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.07.12-01.09.40:840][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.07.12-01.09.40:842][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.07.12-01.09.40:842][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.07.12-01.09.40:842][886]LogInit: FAudioDevice initialized with ID 4.
+[2024.07.12-01.09.40:842][886]LogAudio: Display: Audio Device (ID: 4) registered with world 'Villiage'.
+[2024.07.12-01.09.40:842][886]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.07.12-01.09.40:852][886]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-01.09.40:855][886]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_Villiage.Villiage up for play (max tick rate 0) at 2024.07.11-19.09.40
+[2024.07.12-01.09.40:857][886]LogWorld: Bringing up level for play took: 0.004963
+[2024.07.12-01.09.40:859][886]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.07.12-01.09.40:861][886]PIE: Server logged in
+[2024.07.12-01.09.40:862][886]PIE: Play in editor total start time 0.054 seconds.
+[2024.07.12-01.09.44:111][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.09.44:112][965]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.09.44:112][965]LogWorld: UWorld::CleanupWorld for Villiage, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-01.09.44:112][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.09.44:143][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-01.09.44:145][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.09.44:148][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.09.44:148][965]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.07.12-01.09.44:148][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.12-01.09.44:150][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.12-01.09.44:154][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.07.12-01.09.44:212][966]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.07.12-01.10.00:114][306]Cmd: TRANSACTION UNDO
+[2024.07.12-01.10.00:114][306]LogEditorTransaction: Undo Foliage Editing
+[2024.07.12-01.10.02:346][336]Cmd: TRANSACTION UNDO
+[2024.07.12-01.10.02:346][336]LogEditorTransaction: Undo Foliage Editing
+[2024.07.12-01.10.09:519][450]Cmd: TRANSACTION UNDO
+[2024.07.12-01.10.09:519][450]LogEditorTransaction: Undo Foliage Editing
+[2024.07.12-01.10.31:532][828]Cmd: TRANSACTION UNDO
+[2024.07.12-01.10.31:532][828]LogEditorTransaction: Undo Foliage Editing
+[2024.07.12-01.10.32:199][832]Cmd: TRANSACTION UNDO
+[2024.07.12-01.10.32:199][832]LogEditorTransaction: Undo Foliage Editing
+[2024.07.12-01.10.32:825][841]Cmd: TRANSACTION UNDO
+[2024.07.12-01.10.32:825][841]LogEditorTransaction: Undo Foliage Editing
+[2024.07.12-01.10.42:711][ 28]Cmd: TRANSACTION UNDO
+[2024.07.12-01.10.42:711][ 28]LogEditorTransaction: Undo Foliage Editing
+[2024.07.12-01.11.23:921][902]Cmd: ACTOR SELECT ALL
+[2024.07.12-01.11.46:926][283]LogViewport: Scene viewport resized to 3150x1800, mode Windowed.
+[2024.07.12-01.11.47:807][295]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-01.11.47:958][296]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-01.13.42:616][641]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-01.13.42:622][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-01.13.42:622][641]PIE: New page: PIE session: Villiage (Jul 11, 2024, 1:13:42 PM)
+[2024.07.12-01.13.42:622][641]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.13.42:636][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014309s)
+[2024.07.12-01.13.42:636][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/Villiage.Villiage to /Game/JR/Level/UEDPIE_0_Villiage.Villiage (0.014347s)
+[2024.07.12-01.13.42:640][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.07.12-01.13.42:642][641]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-01.13.42:642][641]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-01.13.42:642][641]LogAIModule: Creating AISystem for world Villiage
+[2024.07.12-01.13.42:643][641]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2024.07.12-01.13.42:643][641]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.07.12-01.13.42:643][641]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-01.13.42:643][641]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-01.13.42:643][641]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-01.13.42:643][641]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-01.13.42:643][641]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-01.13.42:643][641]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-01.13.42:643][641]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-01.13.42:643][641]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-01.13.42:643][641]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-01.13.42:643][641]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-01.13.42:643][641]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-01.13.42:645][641]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-01.13.42:659][641]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-01.13.42:659][641]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-01.13.42:659][641]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-01.13.42:659][641]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-01.13.42:660][641]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.07.12-01.13.42:660][641]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.07.12-01.13.42:662][641]LogInit: FAudioDevice initialized with ID 5.
+[2024.07.12-01.13.42:662][641]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.07.12-01.13.42:662][641]LogAudio: Display: Audio Device (ID: 5) registered with world 'Villiage'.
+[2024.07.12-01.13.42:662][641]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.07.12-01.13.42:662][641]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.12-01.13.42:665][641]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-01.13.42:670][641]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_Villiage.Villiage up for play (max tick rate 0) at 2024.07.11-19.13.42
+[2024.07.12-01.13.42:671][641]LogWorld: Bringing up level for play took: 0.006414
+[2024.07.12-01.13.42:673][641]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.07.12-01.13.42:676][641]PIE: Server logged in
+[2024.07.12-01.13.42:677][641]PIE: Play in editor total start time 0.055 seconds.
+[2024.07.12-01.13.56:292][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.13.56:292][844]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.13.56:292][844]LogWorld: UWorld::CleanupWorld for Villiage, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-01.13.56:293][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.13.56:396][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-01.13.56:398][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.13.56:402][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.13.56:402][844]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.12-01.13.56:402][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.12-01.13.56:404][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.12-01.13.56:409][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.07.12-01.13.56:519][845]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.07.12-01.14.23:531][587]LogViewport: Scene viewport resized to 2476x1800, mode Windowed.
+[2024.07.12-01.14.43:825][ 76]Cmd: TRANSACTION UNDO
+[2024.07.12-01.14.43:825][ 76]LogEditorTransaction: Undo Foliage Editing
+[2024.07.12-01.14.44:955][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-01.14.45:001][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/Villiage" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Villiage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-01.14.45:030][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.07.12-01.14.45:093][ 93]LogSavePackage: Moving output files for package: /Game/JR/Level/Villiage
+[2024.07.12-01.14.45:093][ 93]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/Villiage90B048E545751ECA22508E8FFC11F2E8.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Villiage.umap'
+[2024.07.12-01.14.45:096][ 93]LogFileHelpers: All files are already saved.
+[2024.07.12-01.14.45:100][ 93]LogFileHelpers: Saving map 'Villiage' took 0.099
+[2024.07.12-01.14.45:104][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 584 ms)
+[2024.07.12-01.14.45:106][ 93]AssetCheck: New page: Asset Save: Villiage
+[2024.07.12-01.14.45:106][ 93]LogContentValidation: Display: Validating /Script/Engine.World /Game/JR/Level/Villiage.Villiage
+[2024.07.12-01.14.45:327][100]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-01.14.45:332][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-01.14.45:332][100]PIE: New page: PIE session: Villiage (Jul 11, 2024, 1:14:45 PM)
+[2024.07.12-01.14.45:332][100]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.14.45:345][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012380s)
+[2024.07.12-01.14.45:345][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/Villiage.Villiage to /Game/JR/Level/UEDPIE_0_Villiage.Villiage (0.012497s)
+[2024.07.12-01.14.45:348][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.07.12-01.14.45:349][100]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-01.14.45:349][100]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-01.14.45:349][100]LogAIModule: Creating AISystem for world Villiage
+[2024.07.12-01.14.45:349][100]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2024.07.12-01.14.45:349][100]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.07.12-01.14.45:349][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-01.14.45:349][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-01.14.45:349][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-01.14.45:349][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-01.14.45:349][100]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-01.14.45:349][100]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-01.14.45:349][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-01.14.45:349][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-01.14.45:350][100]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-01.14.45:350][100]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-01.14.45:350][100]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-01.14.45:352][100]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-01.14.45:365][100]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-01.14.45:366][100]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-01.14.45:366][100]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-01.14.45:366][100]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-01.14.45:366][100]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.07.12-01.14.45:366][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.07.12-01.14.45:367][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.07.12-01.14.45:367][100]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.07.12-01.14.45:367][100]LogInit: FAudioDevice initialized with ID 6.
+[2024.07.12-01.14.45:367][100]LogAudio: Display: Audio Device (ID: 6) registered with world 'Villiage'.
+[2024.07.12-01.14.45:367][100]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.07.12-01.14.45:382][100]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-01.14.45:387][100]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_Villiage.Villiage up for play (max tick rate 0) at 2024.07.11-19.14.45
+[2024.07.12-01.14.45:388][100]LogWorld: Bringing up level for play took: 0.005512
+[2024.07.12-01.14.45:390][100]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.07.12-01.14.45:393][100]PIE: Server logged in
+[2024.07.12-01.14.45:394][100]PIE: Play in editor total start time 0.062 seconds.
+[2024.07.12-01.14.46:622][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.14.46:622][115]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.14.46:623][115]LogWorld: UWorld::CleanupWorld for Villiage, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-01.14.46:623][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.14.46:684][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-01.14.46:687][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.14.46:691][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.14.46:692][115]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.07.12-01.14.46:692][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.12-01.14.46:693][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.12-01.14.46:698][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.07.12-01.14.46:711][116]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.07.12-01.14.48:286][177]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2024.07.12-01.14.48:293][177]LogViewport: Scene viewport resized to 3150x1800, mode Windowed.
+[2024.07.12-01.15.29:668][  3]Cmd: SELECT NONE
+[2024.07.12-01.16.08:381][593]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.16.22:596][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_Burlap_Blinn': Can't find file.
+[2024.07.12-01.16.22:596][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_Burlap_Blinn'
+[2024.07.12-01.16.22:596][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_Decals_Blinn': Can't find file.
+[2024.07.12-01.16.22:596][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_Decals_Blinn'
+[2024.07.12-01.16.22:596][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_LogBark_Blinn': Can't find file.
+[2024.07.12-01.16.22:596][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_LogBark_Blinn'
+[2024.07.12-01.16.22:596][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_MetalHammeredDark_Blinn': Can't find file.
+[2024.07.12-01.16.22:596][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_MetalHammeredDark_Blinn'
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_MetalHammeredLight_Blinn': Can't find file.
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_MetalHammeredLight_Blinn'
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_MetalRugged_Blinn': Can't find file.
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_MetalRugged_Blinn'
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_MetalSheetLight_Blinn': Can't find file.
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_MetalSheetLight_Blinn'
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_MudStuccoDark_Blinn': Can't find file.
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_MudStuccoDark_Blinn'
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_MudStuccoLight_Blinn': Can't find file.
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_MudStuccoLight_Blinn'
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_Rope_Blinn': Can't find file.
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_Rope_Blinn'
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_Stone_Blinn': Can't find file.
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_Stone_Blinn'
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_StoneFloor_Blinn': Can't find file.
+[2024.07.12-01.16.22:597][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_StoneFloor_Blinn'
+[2024.07.12-01.16.22:598][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_StoneWall_Blinn': Can't find file.
+[2024.07.12-01.16.22:598][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_StoneWall_Blinn'
+[2024.07.12-01.16.22:598][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_TrimA_Blinn': Can't find file.
+[2024.07.12-01.16.22:598][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_TrimA_Blinn'
+[2024.07.12-01.16.22:598][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_Twigs_Blinn': Can't find file.
+[2024.07.12-01.16.22:598][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_Twigs_Blinn'
+[2024.07.12-01.16.22:598][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_WoodLogCap_Blinn': Can't find file.
+[2024.07.12-01.16.22:598][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_WoodLogCap_Blinn'
+[2024.07.12-01.16.22:598][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_WoodPlanksFlat_Blinn': Can't find file.
+[2024.07.12-01.16.22:598][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_WoodPlanksFlat_Blinn'
+[2024.07.12-01.16.22:598][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_WoodPlanksSeededDark_Blinn': Can't find file.
+[2024.07.12-01.16.22:598][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_WoodPlanksSeededDark_Blinn'
+[2024.07.12-01.16.22:598][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_WoodPlanksSeededLight_Blinn': Can't find file.
+[2024.07.12-01.16.22:598][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_WoodPlanksSeededLight_Blinn'
+[2024.07.12-01.16.22:599][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_WoodPlanksShieldBlue_Blinn': Can't find file.
+[2024.07.12-01.16.22:599][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_WoodPlanksShieldBlue_Blinn'
+[2024.07.12-01.16.22:599][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_WoodPlanksShieldGreen_Blinn': Can't find file.
+[2024.07.12-01.16.22:599][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_WoodPlanksShieldGreen_Blinn'
+[2024.07.12-01.16.22:599][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_WoodPlanksShieldRed_Blinn': Can't find file.
+[2024.07.12-01.16.22:599][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_WoodPlanksShieldRed_Blinn'
+[2024.07.12-01.16.22:599][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_WoodPlanksShieldYellow_Blinn': Can't find file.
+[2024.07.12-01.16.22:599][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator5.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_WoodPlanksShieldYellow_Blinn'
+[2024.07.12-01.16.22:606][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator4.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_Net_Blinn': Can't find file.
+[2024.07.12-01.16.22:606][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator4.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_Net_Blinn'
+[2024.07.12-01.16.22:606][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator4.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_ThatchedRoof_Blinn': Can't find file.
+[2024.07.12-01.16.22:606][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator4.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_ThatchedRoof_Blinn'
+[2024.07.12-01.16.22:612][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator3.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_GrassGround_Blinn': Can't find file.
+[2024.07.12-01.16.22:612][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator3.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_GrassGround_Blinn'
+[2024.07.12-01.16.22:612][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator3.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_GrassRoof_Blinn': Can't find file.
+[2024.07.12-01.16.22:612][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator3.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_GrassRoof_Blinn'
+[2024.07.12-01.16.22:613][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator3.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_TrimB_Blinn': Can't find file.
+[2024.07.12-01.16.22:613][181]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator3.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_TrimB_Blinn'
+[2024.07.12-01.16.22:834][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator5.locator5
+[2024.07.12-01.16.22:834][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator5.locator5
+[2024.07.12-01.16.22:834][182]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Viking/locator5.locator5 as actor: StaticMeshActor /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_38
+[2024.07.12-01.16.22:835][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator4.locator4
+[2024.07.12-01.16.22:835][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator4.locator4
+[2024.07.12-01.16.22:835][182]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Viking/locator4.locator4 as actor: StaticMeshActor /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_39
+[2024.07.12-01.16.22:835][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator3.locator3
+[2024.07.12-01.16.22:836][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator3.locator3
+[2024.07.12-01.16.22:836][182]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Viking/locator3.locator3 as actor: StaticMeshActor /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_40
+[2024.07.12-01.16.22:854][182]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/JR/Viking/locator3) ...
+[2024.07.12-01.16.23:496][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator5.locator5
+[2024.07.12-01.16.23:496][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator5.locator5
+[2024.07.12-01.16.23:498][216]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Viking/locator5.locator5 as actor: StaticMeshActor /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_41
+[2024.07.12-01.16.23:551][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator4.locator4
+[2024.07.12-01.16.23:552][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator4.locator4
+[2024.07.12-01.16.23:553][216]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Viking/locator4.locator4 as actor: StaticMeshActor /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_42
+[2024.07.12-01.16.23:607][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator3.locator3
+[2024.07.12-01.16.23:607][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator3.locator3
+[2024.07.12-01.16.23:609][216]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Viking/locator3.locator3 as actor: StaticMeshActor /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_43
+[2024.07.12-01.16.27:096][290]LogMeshUtilities: Finished distance field build in 4.2s - 126x126x98 sparse distance field, 1.8Mb total, 0.0Mb always loaded, 65% occupied, 104823 triangles, locator3
+[2024.07.12-01.16.36:222][657]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator1.locator1
+[2024.07.12-01.16.36:222][657]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator1.locator1
+[2024.07.12-01.16.36:222][657]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Viking/locator1.locator1 as actor: StaticMeshActor /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_44
+[2024.07.12-01.16.36:834][688]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator1.locator1
+[2024.07.12-01.16.36:834][688]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator1.locator1
+[2024.07.12-01.16.36:837][688]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Viking/locator1.locator1 as actor: StaticMeshActor /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_45
+[2024.07.12-01.16.36:934][688]LogNavigation: Warning: Exporting collision geometry with too many triangles (381247). This might cause performance and memory issues. Add a simple collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_45.StaticMeshComponent0'.
+[2024.07.12-01.16.38:193][739]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 51% occupied, 127082 triangles, locator1
+[2024.07.12-01.16.39:316][770]LogMeshUtilities: Finished mesh card build in 1.0s locator1 tris:127082 surfels:6262
+[2024.07.12-01.16.50:070][264]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator2.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_Flags_Blinn': Can't find file.
+[2024.07.12-01.16.50:070][264]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator2.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_Flags_Blinn'
+[2024.07.12-01.16.50:071][264]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator2.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_RoofShingles_Blinn': Can't find file.
+[2024.07.12-01.16.50:071][264]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator2.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_RoofShingles_Blinn'
+[2024.07.12-01.16.50:072][264]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator2.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_StoneGeneric_Blinn': Can't find file.
+[2024.07.12-01.16.50:072][264]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\locator2.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_StoneGeneric_Blinn'
+[2024.07.12-01.16.50:218][266]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator2.locator2
+[2024.07.12-01.16.50:218][266]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator2.locator2
+[2024.07.12-01.16.50:218][266]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Viking/locator2.locator2 as actor: StaticMeshActor /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_46
+[2024.07.12-01.16.50:236][266]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/JR/Viking/locator2) ...
+[2024.07.12-01.16.50:826][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator2.locator2
+[2024.07.12-01.16.50:826][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator2.locator2
+[2024.07.12-01.16.50:828][279]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Viking/locator2.locator2 as actor: StaticMeshActor /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_47
+[2024.07.12-01.16.50:883][279]LogNavigation: Warning: Exporting collision geometry with too many triangles (1010458). This might cause performance and memory issues. Add a simple collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_47.StaticMeshComponent0'.
+[2024.07.12-01.16.53:104][369]Cmd: DELETE
+[2024.07.12-01.16.53:104][369]Cmd: ACTOR DELETE
+[2024.07.12-01.16.53:109][369]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.12-01.16.53:128][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.07.12-01.16.53:130][369]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.07.12-01.16.55:907][499]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\KB3D_VHL_MetalHammeredDark_Blinn.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_MetalHammeredDark_basecolor': Can't find file.
+[2024.07.12-01.16.55:907][499]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\KB3D_VHL_MetalHammeredDark_Blinn.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_MetalHammeredDark_basecolor'
+[2024.07.12-01.16.55:907][499]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\KB3D_VHL_MetalHammeredDark_Blinn.uasset: Failed to load '/Game/JC/Mesh/Viking/KB3D_VHL_MetalHammeredDark_normal': Can't find file.
+[2024.07.12-01.16.55:907][499]LogLinker: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\KB3D_VHL_MetalHammeredDark_Blinn.uasset: VerifyImport: Failed to load package for import object 'Package /Game/JC/Mesh/Viking/KB3D_VHL_MetalHammeredDark_normal'
+[2024.07.12-01.16.55:910][499]LogMaterial: Warning: [AssetLog] C:\Users\u1371722\Documents\GitHub\Jasmine_R\Content\JR\Viking\KB3D_VHL_MetalHammeredDark_Blinn.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.07.12-01.16.56:166][513]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator6.locator6
+[2024.07.12-01.16.56:166][513]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator6.locator6
+[2024.07.12-01.16.56:167][513]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Viking/locator6.locator6 as actor: StaticMeshActor /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_48
+[2024.07.12-01.16.56:184][513]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/JR/Viking/locator6) ...
+[2024.07.12-01.16.56:519][522]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator6.locator6
+[2024.07.12-01.16.56:519][522]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Viking/locator6.locator6
+[2024.07.12-01.16.56:521][522]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Viking/locator6.locator6 as actor: StaticMeshActor /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_49
+[2024.07.12-01.16.59:643][611]LogNavigation: Warning: Exporting collision geometry with too many triangles (381247). This might cause performance and memory issues. Add a simple collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_45.StaticMeshComponent0'.
+[2024.07.12-01.17.01:345][651]LogMeshUtilities: Finished distance field build in 5.1s - 126x126x105 sparse distance field, 1.6Mb total, 0.0Mb always loaded, 53% occupied, 115993 triangles, locator6
+[2024.07.12-01.17.51:745][472]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.12-01.17.59:360][701]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.12-01.18.00:878][761]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.18.02:386][826]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.18.04:491][916]Cmd: TRANSACTION UNDO
+[2024.07.12-01.18.04:491][916]LogEditorTransaction: Undo Clicking on Actors
+[2024.07.12-01.18.05:145][932]Cmd: TRANSACTION UNDO
+[2024.07.12-01.18.05:145][932]LogEditorTransaction: Undo Move Elements
+[2024.07.12-01.18.06:294][976]Cmd: EDIT COPY
+[2024.07.12-01.18.06:849][999]Cmd: EDIT PASTE
+[2024.07.12-01.18.06:875][999]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.18.07:558][ 29]Cmd: TRANSACTION UNDO
+[2024.07.12-01.18.07:558][ 29]LogEditorTransaction: Undo Paste
+[2024.07.12-01.18.10:658][156]Cmd: TRANSACTION UNDO
+[2024.07.12-01.18.10:658][156]LogEditorTransaction: Undo Clicking on Elements
+[2024.07.12-01.18.15:765][320]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.18.20:571][519]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.18.21:731][562]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.18.23:103][604]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.18.24:235][647]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.18.27:075][721]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.18.28:253][748]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.18.30:715][821]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.18.31:703][856]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.18.32:371][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-01.18.32:468][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/Villiage" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Villiage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-01.18.32:500][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.07.12-01.18.32:582][882]LogSavePackage: Moving output files for package: /Game/JR/Level/Villiage
+[2024.07.12-01.18.32:582][882]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/Villiage78FE539646E2F374AF347BAE04FAF9DF.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Villiage.umap'
+[2024.07.12-01.18.32:586][882]LogFileHelpers: All files are already saved.
+[2024.07.12-01.18.32:590][882]LogFileHelpers: Saving map 'Villiage' took 0.123
+[2024.07.12-01.18.32:596][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 226 ms (total: 810 ms)
+[2024.07.12-01.18.32:599][882]AssetCheck: New page: Asset Save: Villiage
+[2024.07.12-01.18.32:599][882]LogContentValidation: Display: Validating /Script/Engine.World /Game/JR/Level/Villiage.Villiage
+[2024.07.12-01.18.33:133][906]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-01.18.33:138][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-01.18.33:138][906]PIE: New page: PIE session: Villiage (Jul 11, 2024, 1:18:33 PM)
+[2024.07.12-01.18.33:138][906]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.18.33:152][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013661s)
+[2024.07.12-01.18.33:152][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/Villiage.Villiage to /Game/JR/Level/UEDPIE_0_Villiage.Villiage (0.013694s)
+[2024.07.12-01.18.33:156][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.07.12-01.18.33:157][906]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-01.18.33:157][906]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-01.18.33:157][906]LogAIModule: Creating AISystem for world Villiage
+[2024.07.12-01.18.33:157][906]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2024.07.12-01.18.33:157][906]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.07.12-01.18.33:157][906]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-01.18.33:158][906]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-01.18.33:158][906]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-01.18.33:158][906]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-01.18.33:158][906]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-01.18.33:158][906]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-01.18.33:158][906]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-01.18.33:158][906]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-01.18.33:158][906]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-01.18.33:158][906]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-01.18.33:158][906]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-01.18.33:159][906]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-01.18.33:175][906]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-01.18.33:175][906]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-01.18.33:175][906]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-01.18.33:175][906]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-01.18.33:176][906]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.07.12-01.18.33:176][906]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.07.12-01.18.33:177][906]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.07.12-01.18.33:177][906]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.07.12-01.18.33:178][906]LogInit: FAudioDevice initialized with ID 7.
+[2024.07.12-01.18.33:178][906]LogAudio: Display: Audio Device (ID: 7) registered with world 'Villiage'.
+[2024.07.12-01.18.33:178][906]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.07.12-01.18.33:180][906]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-01.18.33:185][906]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_Villiage.Villiage up for play (max tick rate 0) at 2024.07.11-19.18.33
+[2024.07.12-01.18.33:187][906]LogWorld: Bringing up level for play took: 0.006251
+[2024.07.12-01.18.33:188][906]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.07.12-01.18.33:191][906]PIE: Server logged in
+[2024.07.12-01.18.33:192][906]PIE: Play in editor total start time 0.054 seconds.
+[2024.07.12-01.18.35:053][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.18.35:053][934]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.18.35:053][934]LogWorld: UWorld::CleanupWorld for Villiage, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-01.18.35:053][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.18.35:146][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-01.18.35:148][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.18.35:151][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.18.35:151][934]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.07.12-01.18.35:152][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.12-01.18.35:153][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.12-01.18.35:160][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.07.12-01.18.35:279][935]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.07.12-01.18.40:502][111]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.18.41:214][140]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.12-01.18.42:735][195]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-01.18.42:741][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-01.18.42:741][195]PIE: New page: PIE session: Villiage (Jul 11, 2024, 1:18:42 PM)
+[2024.07.12-01.18.42:741][195]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.18.42:756][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014784s)
+[2024.07.12-01.18.42:756][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/Villiage.Villiage to /Game/JR/Level/UEDPIE_0_Villiage.Villiage (0.014816s)
+[2024.07.12-01.18.42:760][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.07.12-01.18.42:762][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-01.18.42:762][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-01.18.42:762][195]LogAIModule: Creating AISystem for world Villiage
+[2024.07.12-01.18.42:762][195]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2024.07.12-01.18.42:762][195]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.07.12-01.18.42:763][195]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-01.18.42:763][195]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-01.18.42:763][195]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-01.18.42:763][195]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-01.18.42:763][195]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-01.18.42:763][195]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-01.18.42:763][195]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-01.18.42:763][195]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-01.18.42:763][195]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-01.18.42:763][195]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-01.18.42:763][195]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-01.18.42:765][195]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-01.18.42:782][195]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-01.18.42:782][195]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-01.18.42:782][195]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-01.18.42:782][195]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-01.18.42:783][195]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.07.12-01.18.42:783][195]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.07.12-01.18.42:784][195]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.07.12-01.18.42:784][195]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.07.12-01.18.42:784][195]LogInit: FAudioDevice initialized with ID 8.
+[2024.07.12-01.18.42:784][195]LogAudio: Display: Audio Device (ID: 8) registered with world 'Villiage'.
+[2024.07.12-01.18.42:784][195]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.12-01.18.42:787][195]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-01.18.42:792][195]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_Villiage.Villiage up for play (max tick rate 0) at 2024.07.11-19.18.42
+[2024.07.12-01.18.42:794][195]LogWorld: Bringing up level for play took: 0.006903
+[2024.07.12-01.18.42:796][195]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.07.12-01.18.42:801][195]PIE: Server logged in
+[2024.07.12-01.18.42:801][195]PIE: Play in editor total start time 0.06 seconds.
+[2024.07.12-01.18.47:014][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.18.47:014][314]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.18.47:014][314]LogWorld: UWorld::CleanupWorld for Villiage, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-01.18.47:014][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.18.47:133][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-01.18.47:135][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.18.47:139][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.18.47:139][314]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.12-01.18.47:139][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.12-01.18.47:141][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.12-01.18.47:146][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.07.12-01.18.47:305][315]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.07.12-01.18.48:903][335]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.12-01.18.48:911][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-01.18.48:911][335]PIE: New page: PIE session: Villiage (Jul 11, 2024, 1:18:48 PM)
+[2024.07.12-01.18.48:912][335]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.18.48:928][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017012s)
+[2024.07.12-01.18.48:928][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/Villiage.Villiage to /Game/JR/Level/UEDPIE_0_Villiage.Villiage (0.017051s)
+[2024.07.12-01.18.48:939][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.07.12-01.18.48:941][335]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-01.18.48:941][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-01.18.48:941][335]LogAIModule: Creating AISystem for world Villiage
+[2024.07.12-01.18.48:942][335]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2024.07.12-01.18.48:942][335]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.07.12-01.18.48:942][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-01.18.48:942][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-01.18.48:942][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-01.18.48:942][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-01.18.48:942][335]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-01.18.48:942][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-01.18.48:942][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-01.18.48:942][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-01.18.48:942][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-01.18.48:942][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-01.18.48:942][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-01.18.48:944][335]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-01.18.48:957][335]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-01.18.48:957][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-01.18.48:957][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-01.18.48:957][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-01.18.48:958][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.07.12-01.18.48:958][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.07.12-01.18.48:959][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.07.12-01.18.48:959][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.07.12-01.18.48:959][335]LogInit: FAudioDevice initialized with ID 9.
+[2024.07.12-01.18.48:959][335]LogAudio: Display: Audio Device (ID: 9) registered with world 'Villiage'.
+[2024.07.12-01.18.48:959][335]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.12-01.18.48:985][335]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-01.18.48:990][335]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_Villiage.Villiage up for play (max tick rate 0) at 2024.07.11-19.18.48
+[2024.07.12-01.18.48:991][335]LogWorld: Bringing up level for play took: 0.005397
+[2024.07.12-01.18.48:992][335]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.07.12-01.18.48:996][335]PIE: Server logged in
+[2024.07.12-01.18.48:996][335]PIE: Play in editor total start time 0.085 seconds.
+[2024.07.12-01.19.30:603][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.19.30:603][581]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.19.30:603][581]LogWorld: UWorld::CleanupWorld for Villiage, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-01.19.30:604][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.19.30:648][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-01.19.30:650][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.19.30:654][581]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.12-01.19.30:654][581]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.12-01.19.30:654][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.12-01.19.30:655][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.12-01.19.30:658][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.19.30:661][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.07.12-01.19.30:751][582]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.07.12-01.19.43:632][882]LogPhysics: Warning: Scale for /Game/JR/Level/Villiage.Villiage:PersistentLevel.WaterBodyRiver_1.SplineMeshComponent_0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2024.07.12-01.19.43:632][882]LogPhysics: Warning: Scale for /Game/JR/Level/Villiage.Villiage:PersistentLevel.WaterBodyRiver_1.SplineMeshComponent_1 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2024.07.12-01.19.43:632][882]LogPhysics: Warning: Scale for /Game/JR/Level/Villiage.Villiage:PersistentLevel.WaterBodyRiver_1.SplineMeshComponent_2 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2024.07.12-01.19.43:633][882]LogPhysics: Warning: Scale for /Game/JR/Level/Villiage.Villiage:PersistentLevel.WaterBodyRiver_1.SplineMeshComponent_3 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2024.07.12-01.19.43:633][882]LogPhysics: Warning: Scale for /Game/JR/Level/Villiage.Villiage:PersistentLevel.WaterBodyRiver_1.SplineMeshComponent_4 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2024.07.12-01.19.43:633][882]LogPhysics: Warning: Scale for /Game/JR/Level/Villiage.Villiage:PersistentLevel.WaterBodyRiver_1.SplineMeshComponent_5 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2024.07.12-01.19.43:633][882]LogPhysics: Warning: Scale for /Game/JR/Level/Villiage.Villiage:PersistentLevel.WaterBodyRiver_1.SplineMeshComponent_6 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2024.07.12-01.19.46:192][939]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_1...
+[2024.07.12-01.19.46:192][939]LogStaticMesh: Display: Building static mesh WaterInfoMesh_0...
+[2024.07.12-01.19.46:194][939]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/Villiage.Villiage:PersistentLevel.WaterBodyRiver_1.WaterInfoMesh_0
+[2024.07.12-01.19.46:195][939]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/Villiage.Villiage:PersistentLevel.WaterBodyRiver_1.WaterInfoDilatedMesh_1
+[2024.07.12-01.19.46:455][944]Cmd: TRANSACTION UNDO
+[2024.07.12-01.19.46:456][944]LogEditorTransaction: Undo Scale Elements
+[2024.07.12-01.19.47:212][944]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x126 sparse distance field, 1.2Mb total, 0.1Mb always loaded, 31% occupied, 18 triangles, WaterInfoMesh_0
+[2024.07.12-01.19.47:830][944]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 70% occupied, 40 triangles, WaterInfoDilatedMesh_1
+[2024.07.12-01.19.54:183][ 61]LogStaticMesh: Display: Building static mesh WaterInfoMesh_6...
+[2024.07.12-01.19.54:184][ 61]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_7...
+[2024.07.12-01.19.54:185][ 61]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/Villiage.Villiage:PersistentLevel.WaterBodyRiver_1.WaterInfoDilatedMesh_7
+[2024.07.12-01.19.54:186][ 61]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/Villiage.Villiage:PersistentLevel.WaterBodyRiver_1.WaterInfoMesh_6
+[2024.07.12-01.19.55:344][ 82]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.2Mb total, 0.1Mb always loaded, 31% occupied, 19 triangles, WaterInfoMesh_6
+[2024.07.12-01.19.56:180][ 95]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 70% occupied, 42 triangles, WaterInfoDilatedMesh_7
+[2024.07.12-01.19.57:445][116]LogStaticMesh: Display: Building static mesh WaterInfoMesh_8...
+[2024.07.12-01.19.57:445][116]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_9...
+[2024.07.12-01.19.57:448][116]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/Villiage.Villiage:PersistentLevel.WaterBodyRiver_1.WaterInfoDilatedMesh_9
+[2024.07.12-01.19.57:448][116]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/Villiage.Villiage:PersistentLevel.WaterBodyRiver_1.WaterInfoMesh_8
+[2024.07.12-01.19.58:642][134]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.2Mb total, 0.1Mb always loaded, 31% occupied, 19 triangles, WaterInfoMesh_8
+[2024.07.12-01.19.59:468][145]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 70% occupied, 42 triangles, WaterInfoDilatedMesh_9
+[2024.07.12-01.20.02:475][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-01.20.02:475][172]PIE: New page: PIE session: Villiage (Jul 11, 2024, 1:20:02 PM)
+[2024.07.12-01.20.02:475][172]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.20.02:492][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016488s)
+[2024.07.12-01.20.02:492][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/Villiage.Villiage to /Game/JR/Level/UEDPIE_0_Villiage.Villiage (0.016529s)
+[2024.07.12-01.20.02:498][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.07.12-01.20.02:499][172]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-01.20.02:499][172]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-01.20.02:500][172]LogAIModule: Creating AISystem for world Villiage
+[2024.07.12-01.20.02:500][172]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2024.07.12-01.20.02:500][172]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.07.12-01.20.02:500][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-01.20.02:500][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-01.20.02:500][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-01.20.02:500][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-01.20.02:500][172]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-01.20.02:500][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-01.20.02:500][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-01.20.02:500][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-01.20.02:501][172]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-01.20.02:501][172]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-01.20.02:501][172]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-01.20.02:502][172]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-01.20.02:515][172]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-01.20.02:515][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-01.20.02:515][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-01.20.02:515][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-01.20.02:516][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.07.12-01.20.02:516][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.07.12-01.20.02:517][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.07.12-01.20.02:517][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.07.12-01.20.02:517][172]LogInit: FAudioDevice initialized with ID 10.
+[2024.07.12-01.20.02:517][172]LogAudio: Display: Audio Device (ID: 10) registered with world 'Villiage'.
+[2024.07.12-01.20.02:517][172]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.07.12-01.20.02:519][172]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-01.20.02:524][172]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_Villiage.Villiage up for play (max tick rate 0) at 2024.07.11-19.20.02
+[2024.07.12-01.20.02:525][172]LogWorld: Bringing up level for play took: 0.005521
+[2024.07.12-01.20.02:526][172]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.07.12-01.20.02:529][172]PIE: Server logged in
+[2024.07.12-01.20.02:530][172]PIE: Play in editor total start time 0.055 seconds.
+[2024.07.12-01.20.06:973][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.20.06:973][252]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.20.06:973][252]LogWorld: UWorld::CleanupWorld for Villiage, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-01.20.06:973][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.20.07:085][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-01.20.07:087][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.20.07:092][252]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.12-01.20.07:092][252]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.07.12-01.20.07:092][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.12-01.20.07:093][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.12-01.20.07:097][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.20.07:099][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.07.12-01.20.07:229][253]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.07.12-01.20.13:892][347]LogStaticMesh: Display: Building static mesh WaterInfoMesh_10...
+[2024.07.12-01.20.13:892][347]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_11...
+[2024.07.12-01.20.13:893][347]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/Villiage.Villiage:PersistentLevel.WaterBodyRiver_1.WaterInfoMesh_10
+[2024.07.12-01.20.13:894][347]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/Villiage.Villiage:PersistentLevel.WaterBodyRiver_1.WaterInfoDilatedMesh_11
+[2024.07.12-01.20.15:057][370]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.2Mb total, 0.1Mb always loaded, 31% occupied, 18 triangles, WaterInfoMesh_10
+[2024.07.12-01.20.15:972][403]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 70% occupied, 41 triangles, WaterInfoDilatedMesh_11
+[2024.07.12-01.20.43:485][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-01.20.43:485][ 22]PIE: New page: PIE session: Villiage (Jul 11, 2024, 1:20:43 PM)
+[2024.07.12-01.20.43:485][ 22]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.20.43:498][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012231s)
+[2024.07.12-01.20.43:498][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/Villiage.Villiage to /Game/JR/Level/UEDPIE_0_Villiage.Villiage (0.012260s)
+[2024.07.12-01.20.43:501][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.07.12-01.20.43:503][ 22]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-01.20.43:503][ 22]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-01.20.43:503][ 22]LogAIModule: Creating AISystem for world Villiage
+[2024.07.12-01.20.43:503][ 22]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2024.07.12-01.20.43:503][ 22]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.07.12-01.20.43:503][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-01.20.43:503][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-01.20.43:503][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-01.20.43:503][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-01.20.43:503][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-01.20.43:503][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-01.20.43:503][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-01.20.43:504][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-01.20.43:504][ 22]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-01.20.43:504][ 22]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-01.20.43:504][ 22]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-01.20.43:505][ 22]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-01.20.43:518][ 22]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-01.20.43:518][ 22]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-01.20.43:518][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-01.20.43:518][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-01.20.43:519][ 22]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.07.12-01.20.43:519][ 22]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.07.12-01.20.43:520][ 22]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.07.12-01.20.43:520][ 22]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.07.12-01.20.43:520][ 22]LogInit: FAudioDevice initialized with ID 11.
+[2024.07.12-01.20.43:520][ 22]LogAudio: Display: Audio Device (ID: 11) registered with world 'Villiage'.
+[2024.07.12-01.20.43:520][ 22]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.07.12-01.20.43:523][ 22]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-01.20.43:528][ 22]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_Villiage.Villiage up for play (max tick rate 0) at 2024.07.11-19.20.43
+[2024.07.12-01.20.43:529][ 22]LogWorld: Bringing up level for play took: 0.005995
+[2024.07.12-01.20.43:530][ 22]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.07.12-01.20.43:533][ 22]PIE: Server logged in
+[2024.07.12-01.20.43:534][ 22]PIE: Play in editor total start time 0.049 seconds.
+[2024.07.12-01.20.45:224][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.20.45:224][ 75]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.20.45:224][ 75]LogWorld: UWorld::CleanupWorld for Villiage, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-01.20.45:224][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.20.45:307][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-01.20.45:309][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.20.45:314][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.12-01.20.45:314][ 75]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.07.12-01.20.45:314][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.07.12-01.20.45:315][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.07.12-01.20.45:319][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.20.45:321][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.07.12-01.20.45:441][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.07.12-01.20.53:665][186]Cmd: TRANSACTION UNDO
+[2024.07.12-01.20.53:665][186]LogEditorTransaction: Undo Scale Elements
+[2024.07.12-01.20.56:323][222]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_52.StaticMeshComponent0, from: Addition to navoctree)
+[2024.07.12-01.20.57:037][232]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/JR/Level/Villiage.Villiage:PersistentLevel.StaticMeshActor_52.StaticMeshComponent0, from: Remove from navoctree)
+[2024.07.12-01.22.09:386][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-01.22.09:386][215]PIE: New page: PIE session: Villiage (Jul 11, 2024, 1:22:09 PM)
+[2024.07.12-01.22.09:386][215]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.22.09:399][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012053s)
+[2024.07.12-01.22.09:399][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/Villiage.Villiage to /Game/JR/Level/UEDPIE_0_Villiage.Villiage (0.012083s)
+[2024.07.12-01.22.09:402][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.07.12-01.22.09:404][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-01.22.09:404][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-01.22.09:404][215]LogAIModule: Creating AISystem for world Villiage
+[2024.07.12-01.22.09:405][215]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2024.07.12-01.22.09:405][215]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.07.12-01.22.09:405][215]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-01.22.09:405][215]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-01.22.09:405][215]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-01.22.09:405][215]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-01.22.09:405][215]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-01.22.09:405][215]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-01.22.09:405][215]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-01.22.09:405][215]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-01.22.09:405][215]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-01.22.09:405][215]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-01.22.09:405][215]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-01.22.09:408][215]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-01.22.09:421][215]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-01.22.09:421][215]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-01.22.09:421][215]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-01.22.09:421][215]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-01.22.09:422][215]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.07.12-01.22.09:422][215]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.07.12-01.22.09:423][215]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.07.12-01.22.09:423][215]LogInit: FAudioDevice initialized with ID 12.
+[2024.07.12-01.22.09:423][215]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.07.12-01.22.09:423][215]LogAudio: Display: Audio Device (ID: 12) registered with world 'Villiage'.
+[2024.07.12-01.22.09:423][215]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.07.12-01.22.09:425][215]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-01.22.09:430][215]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_Villiage.Villiage up for play (max tick rate 0) at 2024.07.11-19.22.09
+[2024.07.12-01.22.09:431][215]LogWorld: Bringing up level for play took: 0.005882
+[2024.07.12-01.22.09:433][215]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.07.12-01.22.09:436][215]PIE: Server logged in
+[2024.07.12-01.22.09:436][215]PIE: Play in editor total start time 0.05 seconds.
+[2024.07.12-01.22.11:123][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.22.11:123][236]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.22.11:123][236]LogWorld: UWorld::CleanupWorld for Villiage, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-01.22.11:124][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.22.11:245][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-01.22.11:246][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.22.11:252][236]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.12-01.22.11:252][236]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.07.12-01.22.11:252][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.07.12-01.22.11:253][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.07.12-01.22.11:256][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.22.11:258][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.07.12-01.22.11:297][237]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.07.12-01.22.16:334][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.12-01.22.16:334][360]PIE: New page: PIE session: Villiage (Jul 11, 2024, 1:22:16 PM)
+[2024.07.12-01.22.16:334][360]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.22.16:346][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011378s)
+[2024.07.12-01.22.16:346][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/Villiage.Villiage to /Game/JR/Level/UEDPIE_0_Villiage.Villiage (0.011404s)
+[2024.07.12-01.22.16:350][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.07.12-01.22.16:351][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-01.22.16:352][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-01.22.16:352][360]LogAIModule: Creating AISystem for world Villiage
+[2024.07.12-01.22.16:352][360]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2024.07.12-01.22.16:352][360]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.07.12-01.22.16:352][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.12-01.22.16:352][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.12-01.22.16:352][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.12-01.22.16:352][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.12-01.22.16:352][360]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.12-01.22.16:352][360]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.12-01.22.16:352][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.12-01.22.16:352][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.12-01.22.16:353][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.12-01.22.16:353][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.12-01.22.16:353][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.12-01.22.16:354][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.12-01.22.16:367][360]LogAudioMixer: Display: Using Audio Hardware Device CintiqPro24P (NVIDIA High Definition Audio)
+[2024.07.12-01.22.16:367][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.12-01.22.16:367][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.12-01.22.16:367][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.12-01.22.16:368][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.07.12-01.22.16:368][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.07.12-01.22.16:369][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.07.12-01.22.16:369][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.07.12-01.22.16:369][360]LogInit: FAudioDevice initialized with ID 13.
+[2024.07.12-01.22.16:369][360]LogAudio: Display: Audio Device (ID: 13) registered with world 'Villiage'.
+[2024.07.12-01.22.16:369][360]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.07.12-01.22.16:371][360]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.12-01.22.16:376][360]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_Villiage.Villiage up for play (max tick rate 0) at 2024.07.11-19.22.16
+[2024.07.12-01.22.16:377][360]LogWorld: Bringing up level for play took: 0.005743
+[2024.07.12-01.22.16:379][360]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.07.12-01.22.16:382][360]PIE: Server logged in
+[2024.07.12-01.22.16:382][360]PIE: Play in editor total start time 0.048 seconds.
+[2024.07.12-01.22.17:733][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.22.17:733][380]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_Villiage
+[2024.07.12-01.22.17:733][380]LogWorld: UWorld::CleanupWorld for Villiage, bSessionEnded=true, bCleanupResources=true
+[2024.07.12-01.22.17:734][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.22.17:811][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.12-01.22.17:812][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.12-01.22.17:817][380]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.12-01.22.17:817][380]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.07.12-01.22.17:817][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.07.12-01.22.17:818][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.07.12-01.22.17:821][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.12-01.22.17:823][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.07.12-01.22.17:957][381]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.07.12-01.22.50:625][871]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.07.12-01.23.05:316][ 91]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/EZ/Lost_Pond_Assets/FBX_Chinaberry_5.FBX_Chinaberry_5
+[2024.07.12-01.23.05:326][ 91]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.12-01.23.05:326][ 91]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.12-01.23.05:670][ 91]LogViewport: Scene viewport resized to 2810x1804, mode Windowed.
+[2024.07.12-01.23.47:531][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.07.12-01.23.48:627][613]LogSlate: Window 'Save Content' being destroyed
+[2024.07.12-01.23.48:636][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.12-01.23.48:684][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/Villiage" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Villiage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.12-01.23.48:713][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.07.12-01.23.48:777][613]LogSavePackage: Moving output files for package: /Game/JR/Level/Villiage
+[2024.07.12-01.23.48:778][613]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/VilliageE3DDE95043474F03F31C36807E1F6BA5.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Villiage.umap'
+[2024.07.12-01.23.48:781][613]LogFileHelpers: All files are already saved.
+[2024.07.12-01.23.48:783][613]LogFileHelpers: Saving map 'Villiage' took 0.100
+[2024.07.12-01.23.48:787][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 961 ms)
+[2024.07.12-01.23.48:789][613]AssetCheck: New page: Asset Save: Villiage
+[2024.07.12-01.23.48:789][613]LogContentValidation: Display: Validating /Script/Engine.World /Game/JR/Level/Villiage.Villiage
