@@ -1,2 +1,3 @@
-2024/07/23-13:01:11.549 378c Creating DB C:/Users/u1371722/Documents/GitHub/Jasmine_R/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/07/23-13:01:11.563 378c Reusing MANIFEST C:/Users/u1371722/Documents/GitHub/Jasmine_R/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/07/25-12:59:55.648 2598 Reusing MANIFEST C:/Users/u1371722/Documents/GitHub/Jasmine_R/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/07/25-12:59:55.658 2598 Recovering log #3
+2024/07/25-12:59:55.659 2598 Reusing old log C:/Users/u1371722/Documents/GitHub/Jasmine_R/Saved/webcache_4430\Local Storage\leveldb/000003.log 
