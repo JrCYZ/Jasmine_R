@@ -1425,3 +1425,1066 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.07.26-18.52.33:980][303]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/JC/Willow_03.Willow_03
 [2024.07.26-18.52.33:980][303]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/JC/Willow_03.Willow_03
 [2024.07.26-18.52.33:981][303]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/JC/Willow_03.Willow_03 as actor: StaticMeshActor /Game/JR/Level/Cave.Cave:PersistentLevel.StaticMeshActor_78
+[2024.07.26-18.52.46:483][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.07.26-18.52.47:403][547]LogSlate: Window '保存内容' being destroyed
+[2024.07.26-18.52.47:407][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-18.52.47:426][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/Cave" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.26-18.52.47:445][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.07.26-18.52.47:476][547]LogSavePackage: Moving output files for package: /Game/JR/Level/Cave
+[2024.07.26-18.52.47:476][547]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/CaveA1B26BBE47CBB2E4EAA95BB44D7F0222.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Cave.umap'
+[2024.07.26-18.52.47:479][547]LogFileHelpers: 所有文件已保存。
+[2024.07.26-18.52.47:481][547]LogFileHelpers: Saving map 'Cave' took 0.055
+[2024.07.26-18.52.48:382][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/JC/Bark_Branch_Mat" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/JC/Bark_Branch_Mat.uasset" SILENT=true
+[2024.07.26-18.52.48:384][547]LogSavePackage: Moving output files for package: /Game/JR/JC/Bark_Branch_Mat
+[2024.07.26-18.52.48:384][547]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/Bark_Branch_Mat16EC680B401645E8149EF5B4210281B4.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/JC/Bark_Branch_Mat.uasset'
+[2024.07.26-18.52.48:412][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/JC/Willow_03" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/JC/Willow_03.uasset" SILENT=true
+[2024.07.26-18.52.49:156][547]LogSavePackage: Moving output files for package: /Game/JR/JC/Willow_03
+[2024.07.26-18.52.49:156][547]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/Willow_03E711B06B4D5C1ABBACE0FB800DA53A59.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/JC/Willow_03.uasset'
+[2024.07.26-18.52.49:160][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.75 sec (total: 1.79 sec)
+[2024.07.26-18.52.49:162][547]AssetCheck: New page: 资产保存：多个资产
+[2024.07.26-18.52.49:162][547]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/JR/Level/Cave.Cave
+[2024.07.26-18.52.49:162][547]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/JR/JC/Bark_Branch_Mat.Bark_Branch_Mat
+[2024.07.26-18.52.49:162][547]LogContentValidation: Display: 正在验证/Script/Engine.StaticMesh /Game/JR/JC/Willow_03.Willow_03
+[2024.07.26-18.52.49:293][549]LogSlate: Window '消息日志' being destroyed
+[2024.07.26-18.52.49:295][549]LogSlate: Window '消息日志' being destroyed
+[2024.07.26-18.54.06:069][514]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/JR/Sequence/Cave.Cave
+[2024.07.26-18.54.06:127][514]LogViewport: Scene viewport resized to 1526x560, mode Windowed.
+[2024.07.26-18.54.45:783][282]LogViewport: Scene viewport resized to 1526x900, mode Windowed.
+[2024.07.26-18.56.04:671][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.07.26-18.56.05:387][997]LogSlate: Window '保存内容' being destroyed
+[2024.07.26-18.56.05:392][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-18.56.05:410][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/Cave" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.26-18.56.05:431][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.07.26-18.56.05:461][997]LogSavePackage: Moving output files for package: /Game/JR/Level/Cave
+[2024.07.26-18.56.05:461][997]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/Cave0AF008E74E1B8FF02A491A8225A8622A.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Cave.umap'
+[2024.07.26-18.56.05:465][997]LogFileHelpers: 所有文件已保存。
+[2024.07.26-18.56.05:466][997]LogFileHelpers: Saving map 'Cave' took 0.056
+[2024.07.26-18.56.05:471][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.87 sec)
+[2024.07.26-18.56.05:473][997]AssetCheck: New page: 资产保存：Cave
+[2024.07.26-18.56.05:473][997]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/JR/Level/Cave.Cave
+[2024.07.26-18.56.11:762][619]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.07.26-18.56.11:831][619]LogContentBrowser: Creating deferred item: NewWorld
+[2024.07.26-18.56.11:837][620]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.07.26-18.56.13:236][735]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2024.07.26-18.56.13:237][735]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-18.56.13:237][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-18.56.13:247][735]LogContentBrowser: End creating deferred item NewWorld
+[2024.07.26-18.56.13:347][744]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/JR/Level/NewWorld does not exist, will not scan.
+[2024.07.26-18.56.15:920][ 48]LogObjectTools: Deleting 1 worlds: /Game/JR/Level/NewWorld.NewWorld
+[2024.07.26-18.56.15:920][ 48]LogObjectTools: Currently 3 active worlds: /Game/JR/Level/Cave.Cave, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2024.07.26-18.56.15:923][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.07.26-18.56.16:912][ 48]LogSlate: Window 'Delete Assets' being destroyed
+[2024.07.26-18.56.16:916][ 48]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-18.56.16:916][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-18.56.16:919][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.07.26-18.56.16:922][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.07.26-18.56.16:924][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.07.26-18.56.21:034][251]LogSlate: Window '新建关卡' being destroyed
+[2024.07.26-18.56.21:038][251]LightingResults: New page: 光照构建
+[2024.07.26-18.56.21:060][251]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-18.56.21:060][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-18.56.21:060][251]MapCheck: New page: 地图检测
+[2024.07.26-18.56.21:060][251]LightingResults: New page: 光照构建
+[2024.07.26-18.56.21:062][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.26-18.56.21:064][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.07.26-18.56.21:065][251]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-18.56.21:065][251]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-18.56.21:065][251]LogAIModule: Creating AISystem for world Untitled
+[2024.07.26-18.56.21:066][251]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.07.26-18.56.21:077][251]LoadErrors: New page: 新建地图
+[2024.07.26-18.56.23:973][589]LogEditorViewport: Clicking Background
+[2024.07.26-18.56.29:214][642]LogSlate: Window '将关卡另存为' being destroyed
+[2024.07.26-18.56.29:241][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/CaveTest" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/CaveTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.26-18.56.29:260][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.07.26-18.56.29:263][642]LogSavePackage: Moving output files for package: /Game/JR/Level/CaveTest
+[2024.07.26-18.56.29:263][642]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/CaveTest49036B4D48B3A5D381A58FB772A3A6F1.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/CaveTest.umap'
+[2024.07.26-18.56.29:266][642]LogFileHelpers: 所有文件已保存。
+[2024.07.26-18.56.29:273][642]LogFileHelpers: Saving map 'CaveTest' took 0.054
+[2024.07.26-18.56.29:273][642]Cmd: MAP LOAD FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/CaveTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.26-18.56.29:273][642]LightingResults: New page: 光照构建
+[2024.07.26-18.56.29:273][642]LoadErrors: New page: 正在加载地图：CaveTest.umap
+[2024.07.26-18.56.29:290][642]LogWorld: UWorld::CleanupWorld for CaveTest, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-18.56.29:290][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-18.56.29:290][642]MapCheck: New page: 地图检测
+[2024.07.26-18.56.29:290][642]LightingResults: New page: 光照构建
+[2024.07.26-18.56.29:292][642]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.26-18.56.29:293][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.07.26-18.56.29:295][642]LogAudio: Display: Audio Device (ID: 1) registered with world 'CaveTest'.
+[2024.07.26-18.56.29:295][642]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-18.56.29:295][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-18.56.29:295][642]LogAIModule: Creating AISystem for world CaveTest
+[2024.07.26-18.56.29:301][642]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.26-18.56.29:304][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.07.26-18.56.29:307][642]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.26-18.56.29:308][642]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.072毫秒。
+[2024.07.26-18.56.29:308][642]AssetCheck: New page: 资产保存：CaveTest
+[2024.07.26-18.56.29:308][642]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/JR/Level/CaveTest.CaveTest
+[2024.07.26-18.58.03:311][820]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.07.26-18.58.07:935][372]LogSlate: Window '光照混合器' being destroyed
+[2024.07.26-18.58.07:938][372]LogSlate: Window '光照混合器' being destroyed
+[2024.07.26-18.58.17:041][440]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2024.07.26-18.58.17:063][440]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.07.26-18.58.17:064][440]LogSlate: Took 0.001186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.07.26-18.58.21:854][ 14]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2024.07.26-18.58.23:826][247]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2024.07.26-18.58.28:464][801]LogEditor: Attempting to add actor of class 'ExponentialHeightFog' to level at 0.00,0.00,0.00
+[2024.07.26-18.58.38:027][946]LogSlate: Window '环境光照混合器' being destroyed
+[2024.07.26-18.58.38:031][946]LogSlate: Window '环境光照混合器' being destroyed
+[2024.07.26-18.58.45:129][766]LogViewport: Scene viewport resized to 1170x900, mode Windowed.
+[2024.07.26-18.58.51:382][504]LogTexture: Display: 正在构建纹理：/Game/JR/Level/CaveTest.CaveTest:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 512x512 x1x1x1）（预计所需内存：8.062492 MB），编码速度：Fast
+[2024.07.26-18.58.51:386][504]LogMaterial: LandscapeMaterialInstanceConstant_0-SM6-Default: MATSM_DA9E5626FCAE01590760E73DF088B4B4_PCD3D_SM6_1677771108__BC5N_NoCCBN_NoIris_DEV_SL_LWC2_PreExp_DBuf_UnInt_DXC0_VFO_SKYATM_SKYHF_SLWSMDLT_gs1_sdct_VT-0-0-1-0_MIN_DF_MS_T0_MS_T1_VED_Aniso-1_ComprOodle_Compr2_Lev4_ExclNonPipSh-1_LWC-2097152_4170038053_SLWDPDB6FCC63A5C44EA751315CBC3EF5DDED_Num_SM6_FL_0000000d_MFA_00000008_V_B6A0A753ED62499D8F30931E61FCAB05_0_DB3E993F4E2E98B305AD13B92D8C5DA5_A05E64F5EBD44C64BD24277E1DB8EBB792FC705C___TShadowDepthPSPixelShadowDepth_PerspectiveCorrect0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F1D3D5B5AF4A6D9ADE7391C36E24BD5A02F4BAF61_FLumenCardPS<false>0_0_0D25E975B63E407DD6CCDFE4BE03CD3DF848122EAC200DC679A410C1D8AF12A00F0044876007851BC_TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F5F6D284012F74DD2CFC45AAEF7606EB9D574CE14_TLightMapDensityPSTLightMapPolicyHQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523A6F8EDE90BA70B7A37D281661EEE0A46689F58DC5_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316FDA2E61854F80E0F91AE4D21CD0BB79DEC508B58_TBasePassPSTLightMapPolicyLQSkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B43165D7C57B710379F5E917839EBE882255DAA29AF8C_FLandscapeGrassWeightVS0_0_077204F3CE0C4459388557E81DE05752C3D36790F47C0690A66AEBFB62A3248327AB8B3401F67DA0D_TLightMapDensityVSFNoLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523ACE92005F85D160B7FACC465666DB47AD63FF14F7_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ0_0_067553F61B5470C464BC7EDD63DFF5C95B47B43168A2DFEB19681995675B59DD9556978C705446847_FHitProxyVS0_0_035066ECBC7ACAFB429F4F029D7F02660C69AAB0A52D62CB854026D5374EC4E8A00F09A8B1D3302B8_FHitProxyPS0_0_0E427B9138BA536F768FD73ED5EBD629434FE712F591AC01CFB8D5107B679B4AC4E6A2D25CEE2821A_FLandscapeGrassWeightPS0_0_077204F3CE0C4459388557E81DE05752C3D36790FB0B2C106151A19D437E6A81208418E180C9A94FC_TBasePassPSFNoLightMapPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316AA7AFF0410210797DA8DBFDCE4DCE7BD73648BF2_TShadowDepthVSVertexShadowDepth_OutputDepth0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14BF87CEE5C05DBEF9DC24EE7C0F6CF60618ED0AF73_FLandscapePhysicalMaterialPS0_0_020E1030965D9050BE2F2C5A9779AD02AE39502F1EB9F96523E4AC1F2529D86D76BDF869A153FCD4A_TLightMapDensityVSFDummyLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523A7B900AFE3BA5C55A32FF9BDFB44D3099D0056480_FLumenCardVS0_0_06124D99229D9D82CAA55E03425A9B9C0FD582F11CC43E529207B75738B69C90E919763AEC6FA2C8A_TShadowDepthPSPixelShadowDepth_VirtualShadowMap0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F44B0907314254191B2CD2AB68713039EAE1FF9DD_TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6C10A5156EA848D21CFBF57CE1492E504233A65909_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316825624867C61F3DE53BFA02233D16BD0B82A683D_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316899CC7EE1C80A173D8CCB78A28FD236F5F2A6D59_TBasePassPSTLightMapPolicyHQ0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316898AEA5165589EBF175921373DEB413FB7F34F22_FLumenCardPS<true>0_0_0D25E975B63E407DD6CCDFE4BE03CD3DF848122EA41F02910936F61C1A29244FA8FAF42D1FD72AAB7_TLightMapDensityPSFDummyLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523AED5721127772996308073D8F8E9736D48C4F7391_TBasePassPSFCachedPointIndirectLightingPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316B3D33D9C4C484723E672E95931A0FA27C9E8BBF0_TBasePassVSFCachedPointIndirectLightingPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6C63D4D5DEDB79A8344B5CE12C0658C647A5BAE06B_TBasePassPSFCachedPointIndirectLightingPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316141E3C1005BE613F467BBA75C870B8B0ABB5922D_FVelocityPS0_0_0578E1DFC040BAC3A5887E55EDAA7D7643A3C5703424AC0BEE559BE53397AB3C2FC130F4C90538CDB_TBasePassPSFCachedVolumeIndirectLightingPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431618CE64D2B7609F1F0EE3F172AE7FC4A9A40D6F19_TShadowDepthVSVertexShadowDepth_PerspectiveCorrect0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14B9396F3B9CB091423F82674523BC72504438631DE_TBasePassPSFCachedVolumeIndirectLightingPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431626DE51AC3872760C99EBD5D6428B8429D8654B09_TLightMapDensityPSFNoLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523A4E0A359E93DD037794AD9F3BFF2229E192443465_TLightMapDensityVSTLightMapPolicyLQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523A74E0F86ABDC86BABD4121E29A6C471D25795F1CD_TBasePassVSTLightMapPolicyHQ0_0_0F0765E97F80A58082337947551EC5C71F929BC6C5C554DFD6561B915DE45D241DDB26421D7D92563_FLandscapePhysicalMaterialVS0_0_020E1030965D9050BE2F2C5A9779AD02AE39502F111D5D4108CFDB5B6CBE8F3ADC4BE30C19859186B_TBasePassPSFNoLightMapPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431623AEF5FC38580B9DD682422255AA9EC62059678A_TBasePassVSFCachedVolumeIndirectLightingPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6C27C635E797CBD2619F0D39BEE7CD18E130F05E26_TShadowDepthPSPixelShadowDepth_OnePassPointLight0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F3189543DEB1E5450A6398EF5AC45B9A88DC3459B_TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ0_0_0F0765E97F80A58082337947551EC5C71F929BC6C6EF60DE3C0CA277D8FBECBFCB0B5E02D0DFD2B1A_TShadowDepthVSVertexShadowDepth_VirtualShadowMap0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14B1AB185D497ECF113738AA51019A3FA6D2691650F_TShadowDepthVSVertexShadowDepth_OnePassPointLight0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14B95DED9C73DC5F223F091004CF57334C099017CF0_TBasePassPSTLightMapPolicyLQ0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431673C1FA12A57DB2481B209BC117CF77EAF777E48D_TLightMapDensityPSTLightMapPolicyLQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523A60462DA9E455B94945F102A0576E9055D6B63400_TBasePassVSTLightMapPolicyLQ0_0_0F0765E97F80A58082337947551EC5C71F929BC6C15BE5EAD592CA3B8CD12BA18828DD2294877D9CA_TLightMapDensityVSTLightMapPolicyHQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523AE6479A49666B1424EE545AF64EE0BE2ED2964B8F_FDebugViewModePS0_0_0CCFA47BD7FA67195CAFC899931E16F7252214F020074CFCF9A67BE69CCE53140F9193C858B3006EA_TBasePassPSTLightMapPolicyHQSkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431634F240AFBCA6DC4F1885665AD7EBA74031254A3C_TDepthOnlyVS<false>0_0_0AE9B320E6FDD6F686446B30A2D13BF882DEB44F5B419F3F2046DFF016D3871BF8CD05BB9BBEB725B_FVelocityVS0_0_0578E1DFC040BAC3A5887E55EDAA7D7643A3C5703FAAC9A9CF81E62F8A1951C16ACC22C4E57F44BC0_FDebugViewModeVS0_0_0FB485F5439BD76F00750BD2209A5467644596B0496E81C67446F25BC2AFD5BB735073ABD7EC8AFCB_TBasePassVSFNoLightMapPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6CDDD2F7DEF5574DB43546D80EEC3EF30B7E0E7148_VelocityPipelineDD15B90C8D28726D03CD8AD4366F13DECAE368AB_DepthNoPixelPipelineAE9B320E6FDD6F686446B30A2D13BF882DEB44F5_FLandscapeXYOffsetVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FLandscapeVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_Nanite::FVertexFactory61FC001D468CB473F21C182F6ECFAE57E566561D_FLandscapeFixedGridVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C13F5F45F5620EF6411E27211E3D675CEA50B38DFBEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE3F5F45F5620EF6411E27211E3D675CEA50B38DFB3F5F45F5620EF6411E27211E3D675CEA50B38DFB_FLandscapeTileVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE2160101414144444144414441414141414444474010101010101311130010101424464512141414142402414141414141313304444444044444444444424341414141415101000313131312331314343414341314231214440444441313131314440310101015101010101013034343444144444444414151515101030010131151616161602404040404040404040404040404040434343434344444444444444444040404040404044444444404040404444444444443444444444444221444141444444424141414441444141414141313131313131314141444344444444414141414141414141414141434343444444444444434440444141414144414141414141434141414441414141444441444141314143244444444441412143434141413141414141412241434342424242424241434343414341414441313131313144424441214144313131414444444341212121212434414144444444142222121644210221212121213144444444444444405101510151011640444414150051515151616161616101010101015151121010011014101010101010101010151010101010103044510110101010101010101010101010101010101010101010106001404044414040421213131344141010101016101010101010101310100024313131416161611010101210101010151012004444444440434240444231510140444444444444430331313121433140404040404341444331433144433143314341434143314331314331432142413141414131314411144246444444044464444444444044401410101510151015100110101010101010101010101010100022224342423131313131100004441404041412101010000101010101010144444242313101014044444444444444444444444444444444444444444444444444444444444444444444444444040121213131222222220101010101011010101010404424241414121010101010101010141410101510101010004044444451510101000404040404040404040404040404343434343434344444343434340404040404040434343434040404044444242444444443444444242414121414444444241414143414141414141414141313131313131314443444444444141414141414141414141414343434444444444444344404441414141444141414141414341414144414141414444414141414141334144244444414141432341414141413141414142412343424242424242414343434143414144414141313131343244414141244141313134444443414141212124212131444444444141010151515151515151515151010101010101010101515151510101015101510151015101510151010101010101015101615101510151015101510151015101510151015101313151515151015101510151015101015101510164614141540141510101616173634043131313131313131442222314141410101010101110000001300000013000000130000001300000013000000130000001400000013000000130000000D0000000900000014000000100000000800000009000000080000002500000010000000100000001300000009000000080000000800000010000000100000001000000010000000100000000800000008000000080000001000000010000000D80000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001400000010000000080000000800000008000000130000000800000010000000080000000800000008000000080000000800000013000000100000001400000012000000130000001300000013000000130000001300000013000000130000000D0000001300000008000000100000001100000009000000080000000900000008000000080000001700000009000000080000000900000008000000090000000800000009000000080000000C000000090000000800000009000000090000000900000009000000090000000900000009000000080000000800000008000000080000000800000013000000100000001000000010000000170000001000000010000000100000001000000009000000090000000900000009000000100000001000000010000000100000001000000010000000080000000B00000013000000130000000900000009000000090000001400000008000000100000000D0000000C0000001000000008000000080000002D00000010000000100000001000000010000000100000001000000010000000090000000900000008000000080000000800000008000000130000000E0000000900000009000000090000000900000009000000090000000900000009000000090000000900000009000000090000000C000000080000000A0000000C00000013000000100000001000000010000000100000001000000010000000100000000D0000000F00000009000000080000000900000008000000090000000C000000080000001300000013000000260000000F000000140000000900000009000000090000000900000009000000100000001D000000130000001300000013000000130000001300000009000000080000000C0000000800000009000000080000000900000008000000140000001400000008000000100000000900000008000000130000000800000010000000080000000800000041010000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000140000001000000010000000100000001000000009000000433AFC833894B7681A1D3DDBA35F7F5A9509A89900000000000000000000000000000000000000006E2AD9D86FE73F9DF5783D7E68BD0915331357DA_001_101_5;
+[2024.07.26-18.58.55:753][930]Cmd: TRANSACTION UNDO
+[2024.07.26-18.58.55:753][930]LogEditorTransaction: Undo 地形编辑：雕刻
+[2024.07.26-18.59.02:763][731]LogViewport: Scene viewport resized to 1526x900, mode Windowed.
+[2024.07.26-18.59.08:413][375]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2024.07.26-18.59.08:413][375]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2024.07.26-18.59.08:416][375]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_0
+[2024.07.26-18.59.08:418][375]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_0
+[2024.07.26-18.59.08:772][402]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2024.07.26-18.59.08:772][402]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2024.07.26-18.59.08:785][402]LogActorFactory: Actor Factory attempting to spawn Class /Script/WaterEditor.WaterBrushManager
+[2024.07.26-18.59.08:786][402]LogActorFactory: Actor Factory spawned Class /Script/WaterEditor.WaterBrushManager as actor: WaterBrushManager /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.Landscape_WaterBrushManager_0
+[2024.07.26-18.59.08:786][402]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterZone
+[2024.07.26-18.59.08:787][402]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterZone as actor: WaterZone /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterZone_0
+[2024.07.26-18.59.08:788][402]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_1
+[2024.07.26-18.59.08:795][402]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_1
+[2024.07.26-18.59.38:885][711]Cmd: DELETE
+[2024.07.26-18.59.38:885][711]Cmd: ACTOR DELETE
+[2024.07.26-18.59.38:887][711]LogEditorActor: Deleted Actor: WaterBodyLake
+[2024.07.26-18.59.38:894][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.07.26-18.59.38:895][711]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.07.26-18.59.45:177][424]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2024.07.26-18.59.45:177][424]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2024.07.26-18.59.45:180][424]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_2
+[2024.07.26-18.59.45:182][424]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_2
+[2024.07.26-18.59.46:498][558]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2024.07.26-18.59.46:498][558]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2024.07.26-18.59.46:502][558]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_3
+[2024.07.26-18.59.46:509][558]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_3
+[2024.07.26-19.00.05:956][578]LogShaderCompilers: Display: ================================================
+[2024.07.26-19.00.05:956][578]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.26-19.00.05:956][578]LogShaderCompilers: Display: Total job queries 139, among them cache hits 24 (17.27%)
+[2024.07.26-19.00.05:956][578]LogShaderCompilers: Display: Tracking 115 distinct input hashes that result in 94 distinct outputs (81.74%)
+[2024.07.26-19.00.05:956][578]LogShaderCompilers: Display: RAM used: 2.64 MiB of 1.60 GiB budget. Usage: 0.16%
+[2024.07.26-19.00.05:956][578]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Shaders Compiled: 63
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Jobs assigned 63, completed 63 (100%)
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Average time worker was idle: 14.14 s
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 1.09 s
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Job execution time: average 0.63 s, max 1.89 s
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Job life time (pending + execution): average 0.79 s, max 1.94
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Shader code size: average 30.813 KiB, min 4.41 KiB, max 61.609 KiB
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.64 s
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Jobs were issued in 63 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Average processing rate: 13.58 jobs/sec
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Total thread time: 22.349 s
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Total thread preprocess time: 1.956 s
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Percentage time preprocessing: 8.75%
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Effective parallelization: 4.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    4 times, average 0.60 sec, max 0.88 sec, min 0.28 sec)
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    4 times, average 0.51 sec, max 0.85 sec, min 0.30 sec)
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.48 sec, max 0.77 sec, min 0.30 sec)
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    4 times, average 0.45 sec, max 0.71 sec, min 0.32 sec)
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    5 times, average 0.43 sec, max 0.77 sec, min 0.26 sec)
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display:                                                  FHitProxyVS - 10.74% of total time (compiled    4 times, average 0.60 sec, max 0.88 sec, min 0.28 sec)
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 9.59% of total time (compiled    5 times, average 0.43 sec, max 0.77 sec, min 0.26 sec)
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 9.15% of total time (compiled    4 times, average 0.51 sec, max 0.85 sec, min 0.30 sec)
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.56% of total time (compiled    4 times, average 0.48 sec, max 0.77 sec, min 0.30 sec)
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display:                                                  FVelocityVS - 7.98% of total time (compiled    4 times, average 0.45 sec, max 0.71 sec, min 0.32 sec)
+[2024.07.26-19.00.05:957][578]LogShaderCompilers: Display: ================================================
+[2024.07.26-19.00.10:851][ 44]LogEditorViewport: Clicking Background
+[2024.07.26-19.00.16:508][647]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Water/Materials/WaterSurface/Water_Material_Lake.Water_Material_Lake
+[2024.07.26-19.00.16:513][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.00.16:513][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.00.16:717][647]LogViewport: Scene viewport resized to 1335x902, mode Windowed.
+[2024.07.26-19.00.16:733][647]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.07.26-19.00.20:850][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-19.00.20:914][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Water/Materials/WaterSurface/Water_Material_Lake" FILE="../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Lake.uasset" SILENT=true
+[2024.07.26-19.00.20:916][136]LogSavePackage: Moving output files for package: /Water/Materials/WaterSurface/Water_Material_Lake
+[2024.07.26-19.00.20:916][136]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/Water_Material_LakeD63488F046D504D3506BA89E131C811D.tmp' to '../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Lake.uasset'
+[2024.07.26-19.00.20:921][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.94 sec)
+[2024.07.26-19.00.20:922][136]AssetCheck: New page: 资产保存：Water_Material_Lake
+[2024.07.26-19.00.20:922][136]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Water/Materials/WaterSurface/Water_Material_Lake.Water_Material_Lake
+[2024.07.26-19.00.24:454][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-19.00.24:501][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Water/Materials/WaterSurface/Water_Material_Lake" FILE="../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Lake.uasset" SILENT=true
+[2024.07.26-19.00.24:511][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.07.26-19.00.24:634][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.07.26-19.00.24:636][511]LogSavePackage: Moving output files for package: /Water/Materials/WaterSurface/Water_Material_Lake
+[2024.07.26-19.00.24:636][511]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/Water_Material_LakeB4BC4E8A414AB363CC8F3CB1EC238DC5.tmp' to '../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Lake.uasset'
+[2024.07.26-19.00.24:642][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 2.13 sec)
+[2024.07.26-19.00.24:642][511]AssetCheck: New page: 资产保存：Water_Material_Lake
+[2024.07.26-19.00.24:642][511]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Water/Materials/WaterSurface/Water_Material_Lake.Water_Material_Lake
+[2024.07.26-19.00.31:665][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.26-19.00.31:665][207]PIE: New page: PIE会话：CaveTest（2024年7月26日 上午7:00:31）
+[2024.07.26-19.00.31:665][207]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.00.31:671][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006572s)
+[2024.07.26-19.00.31:672][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/CaveTest.CaveTest to /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest (0.006596s)
+[2024.07.26-19.00.31:674][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.07.26-19.00.31:675][207]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.00.31:676][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.00.31:676][207]LogAIModule: Creating AISystem for world CaveTest
+[2024.07.26-19.00.31:676][207]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2024.07.26-19.00.31:676][207]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.07.26-19.00.31:676][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.26-19.00.31:676][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.26-19.00.31:676][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.26-19.00.31:676][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.26-19.00.31:676][207]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.26-19.00.31:676][207]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.26-19.00.31:676][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.26-19.00.31:676][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.26-19.00.31:677][207]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.26-19.00.31:677][207]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.26-19.00.31:677][207]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.26-19.00.31:678][207]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.26-19.00.31:693][207]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.26-19.00.31:693][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.26-19.00.31:693][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.26-19.00.31:693][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.26-19.00.31:694][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.07.26-19.00.31:694][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.07.26-19.00.31:695][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.07.26-19.00.31:695][207]LogInit: FAudioDevice initialized with ID 4.
+[2024.07.26-19.00.31:695][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.07.26-19.00.31:695][207]LogAudio: Display: Audio Device (ID: 4) registered with world 'CaveTest'.
+[2024.07.26-19.00.31:695][207]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.07.26-19.00.31:697][207]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.26-19.00.31:699][207]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest up for play (max tick rate 0) at 2024.07.26-13.00.31
+[2024.07.26-19.00.31:699][207]LogWorld: Bringing up level for play took: 0.002614
+[2024.07.26-19.00.31:701][207]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.07.26-19.00.31:703][207]PIE: 登陆的服务器
+[2024.07.26-19.00.31:704][207]PIE: PIE总开始时间：0.039秒。
+[2024.07.26-19.00.35:449][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.00.35:449][588]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.00.35:449][588]LogWorld: UWorld::CleanupWorld for CaveTest, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.00.35:449][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.00.35:451][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.26-19.00.35:452][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.00.35:454][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.00.35:455][588]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.07.26-19.00.35:455][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.26-19.00.35:456][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.26-19.00.35:460][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.07.26-19.00.35:531][591]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.07.26-19.00.41:555][261]LogTemp: Warning: UI Min (1.0) >= UI Max (.01) for Ranged Numeric property /Script/Engine.PostProcessSettings:LumenDiffuseColorBoost
+[2024.07.26-19.00.48:694][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.26-19.00.48:694][ 69]PIE: New page: PIE会话：CaveTest（2024年7月26日 上午7:00:48）
+[2024.07.26-19.00.48:694][ 69]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.00.48:700][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005962s)
+[2024.07.26-19.00.48:700][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/CaveTest.CaveTest to /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest (0.005987s)
+[2024.07.26-19.00.48:703][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.07.26-19.00.48:705][ 69]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.00.48:705][ 69]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.00.48:706][ 69]LogAIModule: Creating AISystem for world CaveTest
+[2024.07.26-19.00.48:706][ 69]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2024.07.26-19.00.48:706][ 69]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.07.26-19.00.48:706][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.26-19.00.48:706][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.26-19.00.48:706][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.26-19.00.48:706][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.26-19.00.48:706][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.26-19.00.48:706][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.26-19.00.48:706][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.26-19.00.48:706][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.26-19.00.48:706][ 69]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.26-19.00.48:706][ 69]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.26-19.00.48:706][ 69]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.26-19.00.48:707][ 69]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.26-19.00.48:721][ 69]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.26-19.00.48:721][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.26-19.00.48:721][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.26-19.00.48:721][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.26-19.00.48:722][ 69]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.07.26-19.00.48:722][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.07.26-19.00.48:723][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.07.26-19.00.48:723][ 69]LogInit: FAudioDevice initialized with ID 5.
+[2024.07.26-19.00.48:723][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.07.26-19.00.48:723][ 69]LogAudio: Display: Audio Device (ID: 5) registered with world 'CaveTest'.
+[2024.07.26-19.00.48:723][ 69]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.26-19.00.48:724][ 69]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.26-19.00.48:726][ 69]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest up for play (max tick rate 0) at 2024.07.26-13.00.48
+[2024.07.26-19.00.48:726][ 69]LogWorld: Bringing up level for play took: 0.001534
+[2024.07.26-19.00.48:727][ 69]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.07.26-19.00.48:730][ 69]PIE: 登陆的服务器
+[2024.07.26-19.00.48:730][ 69]PIE: PIE总开始时间：0.036秒。
+[2024.07.26-19.00.55:639][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.00.55:639][885]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.00.55:639][885]LogWorld: UWorld::CleanupWorld for CaveTest, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.00.55:639][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.00.55:643][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.26-19.00.55:645][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.00.55:648][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.26-19.00.55:648][885]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.26-19.00.55:648][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.26-19.00.55:649][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.26-19.00.55:652][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.00.55:654][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.07.26-19.00.55:723][887]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.07.26-19.01.08:576][318]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.01.09:284][377]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2024.07.26-19.01.09:284][377]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2024.07.26-19.01.09:288][377]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.07.26-19.01.09:290][377]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.07.26-19.01.09:996][443]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2024.07.26-19.01.09:996][443]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2024.07.26-19.01.10:000][443]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.BP_ThirdPersonCharacter_C_1
+[2024.07.26-19.01.10:003][443]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.BP_ThirdPersonCharacter_C_1
+[2024.07.26-19.01.10:141][444]LogViewport: Scene viewport resized to 482x284, mode Windowed.
+[2024.07.26-19.01.14:798][748]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2024.07.26-19.01.14:803][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.26-19.01.14:803][748]PIE: New page: PIE会话：CaveTest（2024年7月26日 上午7:01:14）
+[2024.07.26-19.01.14:828][748]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.01.14:834][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006603s)
+[2024.07.26-19.01.14:834][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/CaveTest.CaveTest to /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest (0.006640s)
+[2024.07.26-19.01.14:839][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.07.26-19.01.14:843][748]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.01.14:843][748]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.01.14:843][748]LogAIModule: Creating AISystem for world CaveTest
+[2024.07.26-19.01.14:843][748]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2024.07.26-19.01.14:843][748]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.07.26-19.01.14:843][748]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.26-19.01.14:843][748]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.26-19.01.14:843][748]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.26-19.01.14:843][748]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.26-19.01.14:843][748]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.26-19.01.14:843][748]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.26-19.01.14:843][748]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.26-19.01.14:843][748]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.26-19.01.14:844][748]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.26-19.01.14:844][748]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.26-19.01.14:844][748]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.26-19.01.14:845][748]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.26-19.01.14:858][748]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.26-19.01.14:859][748]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.26-19.01.14:859][748]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.26-19.01.14:859][748]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.26-19.01.14:859][748]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.07.26-19.01.14:859][748]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.07.26-19.01.14:860][748]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.07.26-19.01.14:860][748]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.07.26-19.01.14:860][748]LogInit: FAudioDevice initialized with ID 6.
+[2024.07.26-19.01.14:860][748]LogAudio: Display: Audio Device (ID: 6) registered with world 'CaveTest'.
+[2024.07.26-19.01.14:860][748]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.07.26-19.01.14:862][748]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.26-19.01.14:865][748]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest up for play (max tick rate 0) at 2024.07.26-13.01.14
+[2024.07.26-19.01.14:866][748]LogWorld: Bringing up level for play took: 0.003258
+[2024.07.26-19.01.14:867][748]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.07.26-19.01.14:869][748]PIE: 登陆的服务器
+[2024.07.26-19.01.14:870][748]PIE: PIE总开始时间：0.066秒。
+[2024.07.26-19.01.16:188][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.01.16:188][891]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.01.16:188][891]LogWorld: UWorld::CleanupWorld for CaveTest, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.01.16:189][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.01.16:191][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.26-19.01.16:192][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.01.16:195][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.01.16:195][891]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.07.26-19.01.16:195][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.26-19.01.16:196][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.26-19.01.16:201][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.07.26-19.01.16:270][892]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.07.26-19.01.16:293][892]LogViewport: Scene viewport resized to 482x284, mode Windowed.
+[2024.07.26-19.01.31:928][991]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2024.07.26-19.01.31:933][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.26-19.01.31:933][991]PIE: New page: PIE会话：CaveTest（2024年7月26日 上午7:01:31）
+[2024.07.26-19.01.31:957][991]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.01.31:964][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006409s)
+[2024.07.26-19.01.31:964][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/CaveTest.CaveTest to /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest (0.006442s)
+[2024.07.26-19.01.31:966][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.07.26-19.01.31:968][991]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.01.31:968][991]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.01.31:969][991]LogAIModule: Creating AISystem for world CaveTest
+[2024.07.26-19.01.31:969][991]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2024.07.26-19.01.31:969][991]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.07.26-19.01.31:969][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.26-19.01.31:969][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.26-19.01.31:969][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.26-19.01.31:969][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.26-19.01.31:969][991]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.26-19.01.31:969][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.26-19.01.31:969][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.26-19.01.31:969][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.26-19.01.31:969][991]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.26-19.01.31:969][991]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.26-19.01.31:969][991]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.26-19.01.31:971][991]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.26-19.01.31:984][991]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.26-19.01.31:984][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.26-19.01.31:984][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.26-19.01.31:984][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.26-19.01.31:985][991]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.07.26-19.01.31:985][991]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.07.26-19.01.31:986][991]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.07.26-19.01.31:986][991]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.07.26-19.01.31:986][991]LogInit: FAudioDevice initialized with ID 7.
+[2024.07.26-19.01.31:986][991]LogAudio: Display: Audio Device (ID: 7) registered with world 'CaveTest'.
+[2024.07.26-19.01.31:986][991]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.07.26-19.01.31:988][991]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.26-19.01.31:991][991]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest up for play (max tick rate 0) at 2024.07.26-13.01.31
+[2024.07.26-19.01.31:991][991]LogWorld: Bringing up level for play took: 0.003254
+[2024.07.26-19.01.31:993][991]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.07.26-19.01.31:995][991]PIE: 登陆的服务器
+[2024.07.26-19.01.31:995][991]PIE: PIE总开始时间：0.062秒。
+[2024.07.26-19.01.33:307][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.01.33:307][ 97]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.01.33:308][ 97]LogWorld: UWorld::CleanupWorld for CaveTest, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.01.33:308][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.01.33:311][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.26-19.01.33:314][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.01.33:318][ 97]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.26-19.01.33:318][ 97]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.07.26-19.01.33:318][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.26-19.01.33:320][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.26-19.01.33:324][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.01.33:326][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.07.26-19.01.33:385][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.07.26-19.02.31:944][467]LogViewport: Scene viewport resized to 482x284, mode Windowed.
+[2024.07.26-19.02.39:702][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.26-19.02.39:702][992]PIE: New page: PIE会话：CaveTest（2024年7月26日 上午7:02:39）
+[2024.07.26-19.02.39:725][992]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.02.39:732][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006412s)
+[2024.07.26-19.02.39:732][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/CaveTest.CaveTest to /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest (0.006441s)
+[2024.07.26-19.02.39:742][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.07.26-19.02.39:743][992]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.02.39:743][992]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.02.39:744][992]LogAIModule: Creating AISystem for world CaveTest
+[2024.07.26-19.02.39:744][992]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2024.07.26-19.02.39:744][992]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.07.26-19.02.39:744][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.26-19.02.39:744][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.26-19.02.39:744][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.26-19.02.39:744][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.26-19.02.39:744][992]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.26-19.02.39:744][992]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.26-19.02.39:744][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.26-19.02.39:744][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.26-19.02.39:744][992]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.26-19.02.39:744][992]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.26-19.02.39:744][992]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.26-19.02.39:746][992]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.26-19.02.39:760][992]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.26-19.02.39:760][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.26-19.02.39:760][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.26-19.02.39:760][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.26-19.02.39:761][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.07.26-19.02.39:761][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.07.26-19.02.39:762][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.07.26-19.02.39:762][992]LogInit: FAudioDevice initialized with ID 8.
+[2024.07.26-19.02.39:762][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.07.26-19.02.39:762][992]LogAudio: Display: Audio Device (ID: 8) registered with world 'CaveTest'.
+[2024.07.26-19.02.39:762][992]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.26-19.02.39:764][992]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.26-19.02.39:767][992]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest up for play (max tick rate 0) at 2024.07.26-13.02.39
+[2024.07.26-19.02.39:767][992]LogWorld: Bringing up level for play took: 0.003123
+[2024.07.26-19.02.39:768][992]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.07.26-19.02.39:770][992]PIE: 登陆的服务器
+[2024.07.26-19.02.39:771][992]PIE: PIE总开始时间：0.069秒。
+[2024.07.26-19.02.42:536][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.02.42:536][312]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.02.42:536][312]LogWorld: UWorld::CleanupWorld for CaveTest, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.02.42:536][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.02.42:538][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.26-19.02.42:539][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.02.42:542][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.26-19.02.42:543][312]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.26-19.02.42:543][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.26-19.02.42:544][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.26-19.02.42:547][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.02.42:548][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.07.26-19.02.42:614][314]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.07.26-19.02.43:418][406]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2024.07.26-19.02.43:422][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.26-19.02.43:422][406]PIE: New page: PIE会话：CaveTest（2024年7月26日 上午7:02:43）
+[2024.07.26-19.02.43:445][406]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.02.43:451][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006210s)
+[2024.07.26-19.02.43:451][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/CaveTest.CaveTest to /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest (0.006241s)
+[2024.07.26-19.02.43:453][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.07.26-19.02.43:455][406]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.02.43:455][406]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.02.43:455][406]LogAIModule: Creating AISystem for world CaveTest
+[2024.07.26-19.02.43:455][406]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2024.07.26-19.02.43:455][406]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.07.26-19.02.43:455][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.26-19.02.43:455][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.26-19.02.43:455][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.26-19.02.43:455][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.26-19.02.43:455][406]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.26-19.02.43:455][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.26-19.02.43:455][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.26-19.02.43:455][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.26-19.02.43:456][406]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.26-19.02.43:456][406]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.26-19.02.43:456][406]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.26-19.02.43:457][406]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.26-19.02.43:470][406]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.26-19.02.43:471][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.26-19.02.43:471][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.26-19.02.43:471][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.26-19.02.43:471][406]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.07.26-19.02.43:471][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.07.26-19.02.43:472][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.07.26-19.02.43:472][406]LogInit: FAudioDevice initialized with ID 9.
+[2024.07.26-19.02.43:472][406]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.07.26-19.02.43:472][406]LogAudio: Display: Audio Device (ID: 9) registered with world 'CaveTest'.
+[2024.07.26-19.02.43:472][406]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.26-19.02.43:474][406]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.26-19.02.43:477][406]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest up for play (max tick rate 0) at 2024.07.26-13.02.43
+[2024.07.26-19.02.43:477][406]LogWorld: Bringing up level for play took: 0.003197
+[2024.07.26-19.02.43:478][406]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.07.26-19.02.43:480][406]PIE: 登陆的服务器
+[2024.07.26-19.02.43:481][406]PIE: PIE总开始时间：0.058秒。
+[2024.07.26-19.02.45:905][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.02.45:905][686]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.02.45:905][686]LogWorld: UWorld::CleanupWorld for CaveTest, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.02.45:906][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.02.45:908][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.26-19.02.45:909][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.02.45:911][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.02.45:912][686]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.26-19.02.45:912][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.26-19.02.45:913][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.26-19.02.45:917][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.07.26-19.02.45:977][688]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.07.26-19.03.00:578][320]LogViewport: Scene viewport resized to 482x284, mode Windowed.
+[2024.07.26-19.03.01:051][354]Cmd: DELETE
+[2024.07.26-19.03.01:051][354]Cmd: ACTOR DELETE
+[2024.07.26-19.03.01:055][354]LogEditorActor: Deleted Actor: BP_ThirdPersonCharacter_C
+[2024.07.26-19.03.01:071][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.07.26-19.03.01:073][354]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.07.26-19.03.11:846][616]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.03.12:818][726]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.03.12:853][727]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.03.12:871][728]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.03.16:327][ 92]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2024.07.26-19.03.16:327][ 92]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2024.07.26-19.03.16:328][ 92]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.SkeletalMeshActor_0
+[2024.07.26-19.03.16:329][ 92]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.SkeletalMeshActor_0
+[2024.07.26-19.03.17:117][182]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2024.07.26-19.03.17:117][182]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2024.07.26-19.03.17:117][182]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.SkeletalMeshActor_1
+[2024.07.26-19.03.17:118][182]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.SkeletalMeshActor_1
+[2024.07.26-19.03.23:978][932]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2024.07.26-19.03.23:983][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.26-19.03.23:983][932]PIE: New page: PIE会话：CaveTest（2024年7月26日 上午7:03:23）
+[2024.07.26-19.03.24:014][932]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.03.24:020][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006385s)
+[2024.07.26-19.03.24:020][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/CaveTest.CaveTest to /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest (0.006420s)
+[2024.07.26-19.03.24:022][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.07.26-19.03.24:025][932]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.03.24:026][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.03.24:026][932]LogAIModule: Creating AISystem for world CaveTest
+[2024.07.26-19.03.24:026][932]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2024.07.26-19.03.24:026][932]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.07.26-19.03.24:026][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.26-19.03.24:026][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.26-19.03.24:026][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.26-19.03.24:026][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.26-19.03.24:026][932]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.26-19.03.24:026][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.26-19.03.24:026][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.26-19.03.24:026][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.26-19.03.24:026][932]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.26-19.03.24:027][932]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.26-19.03.24:027][932]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.26-19.03.24:028][932]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.26-19.03.24:042][932]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.26-19.03.24:042][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.26-19.03.24:042][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.26-19.03.24:042][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.26-19.03.24:042][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.07.26-19.03.24:042][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.07.26-19.03.24:043][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.07.26-19.03.24:043][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.07.26-19.03.24:043][932]LogInit: FAudioDevice initialized with ID 10.
+[2024.07.26-19.03.24:043][932]LogAudio: Display: Audio Device (ID: 10) registered with world 'CaveTest'.
+[2024.07.26-19.03.24:043][932]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.07.26-19.03.24:045][932]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.26-19.03.24:047][932]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest up for play (max tick rate 0) at 2024.07.26-13.03.24
+[2024.07.26-19.03.24:048][932]LogWorld: Bringing up level for play took: 0.002118
+[2024.07.26-19.03.24:049][932]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.07.26-19.03.24:051][932]PIE: 登陆的服务器
+[2024.07.26-19.03.24:052][932]PIE: PIE总开始时间：0.069秒。
+[2024.07.26-19.03.24:954][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.03.24:954][ 28]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.03.24:954][ 28]LogWorld: UWorld::CleanupWorld for CaveTest, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.03.24:955][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.03.24:957][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.26-19.03.24:958][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.03.24:960][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.03.24:960][ 28]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.07.26-19.03.24:961][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.26-19.03.24:962][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.26-19.03.24:966][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.07.26-19.03.25:018][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.07.26-19.04.20:560][406]LogAssetEditorSubsystem: Opening Asset editor for WaterWavesAsset /Water/Waves/GerstnerWaves_Lake.GerstnerWaves_Lake
+[2024.07.26-19.04.20:565][406]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.04.20:565][406]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.04.20:583][406]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterZone
+[2024.07.26-19.04.20:583][406]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterZone as actor: WaterZone /Engine/Transient.World_8:PersistentLevel.WaterZone_0
+[2024.07.26-19.04.20:617][406]LogViewport: Scene viewport resized to 1430x902, mode Windowed.
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: ================================================
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Total job queries 177, among them cache hits 36 (20.34%)
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Tracking 141 distinct input hashes that result in 115 distinct outputs (81.56%)
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: RAM used: 3.37 MiB of 1.60 GiB budget. Usage: 0.21%
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Shaders Compiled: 63
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Jobs assigned 63, completed 63 (100%)
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Average time worker was idle: 14.14 s
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 1.09 s
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Job execution time: average 0.63 s, max 1.89 s
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Job life time (pending + execution): average 0.79 s, max 1.94
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Shader code size: average 30.813 KiB, min 4.41 KiB, max 61.609 KiB
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.64 s
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Jobs were issued in 63 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Average processing rate: 13.58 jobs/sec
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Total thread time: 22.349 s
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Total thread preprocess time: 1.956 s
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Percentage time preprocessing: 8.75%
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Effective parallelization: 4.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    4 times, average 0.60 sec, max 0.88 sec, min 0.28 sec)
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    4 times, average 0.51 sec, max 0.85 sec, min 0.30 sec)
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.48 sec, max 0.77 sec, min 0.30 sec)
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    4 times, average 0.45 sec, max 0.71 sec, min 0.32 sec)
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    5 times, average 0.43 sec, max 0.77 sec, min 0.26 sec)
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display:                                                  FHitProxyVS - 10.74% of total time (compiled    4 times, average 0.60 sec, max 0.88 sec, min 0.28 sec)
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 9.59% of total time (compiled    5 times, average 0.43 sec, max 0.77 sec, min 0.26 sec)
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 9.15% of total time (compiled    4 times, average 0.51 sec, max 0.85 sec, min 0.30 sec)
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.56% of total time (compiled    4 times, average 0.48 sec, max 0.77 sec, min 0.30 sec)
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display:                                                  FVelocityVS - 7.98% of total time (compiled    4 times, average 0.45 sec, max 0.71 sec, min 0.32 sec)
+[2024.07.26-19.04.20:657][407]LogShaderCompilers: Display: ================================================
+[2024.07.26-19.05.34:912][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-19.05.34:926][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Water/Waves/GerstnerWaves_Lake" FILE="../../Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Lake.uasset" SILENT=true
+[2024.07.26-19.05.34:927][296]LogSavePackage: Moving output files for package: /Water/Waves/GerstnerWaves_Lake
+[2024.07.26-19.05.34:927][296]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/GerstnerWaves_Lake1239C1D34BAD236EDAEB2EBC9FBF8876.tmp' to '../../Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Lake.uasset'
+[2024.07.26-19.05.34:931][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 18 ms (total: 2.15 sec)
+[2024.07.26-19.05.34:932][296]AssetCheck: New page: 资产保存：GerstnerWaves_Lake
+[2024.07.26-19.05.34:932][296]LogContentValidation: Display: 正在验证/Script/Water.WaterWavesAsset /Water/Waves/GerstnerWaves_Lake.GerstnerWaves_Lake
+[2024.07.26-19.06.09:469][137]LogSlate: Window '取色器' being destroyed
+[2024.07.26-19.06.14:357][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-19.06.14:477][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Water/Materials/WaterSurface/Water_Material_Lake" FILE="../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Lake.uasset" SILENT=true
+[2024.07.26-19.06.14:487][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.07.26-19.06.14:493][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.07.26-19.06.14:495][718]LogSavePackage: Moving output files for package: /Water/Materials/WaterSurface/Water_Material_Lake
+[2024.07.26-19.06.14:495][718]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/Water_Material_Lake65ED836545693E256EA45A850C7F429D.tmp' to '../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Lake.uasset'
+[2024.07.26-19.06.14:500][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 2.29 sec)
+[2024.07.26-19.06.14:500][718]AssetCheck: New page: 资产保存：Water_Material_Lake
+[2024.07.26-19.06.14:500][718]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Water/Materials/WaterSurface/Water_Material_Lake.Water_Material_Lake
+[2024.07.26-19.06.26:893][ 74]LogSlate: Window '取色器' being destroyed
+[2024.07.26-19.06.28:002][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-19.06.28:059][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Water/Materials/WaterSurface/Water_Material_Lake" FILE="../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Lake.uasset" SILENT=true
+[2024.07.26-19.06.28:061][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.07.26-19.06.28:066][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.07.26-19.06.28:067][202]LogSavePackage: Moving output files for package: /Water/Materials/WaterSurface/Water_Material_Lake
+[2024.07.26-19.06.28:067][202]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/Water_Material_LakeB29BE22B4834184B64238B886BF708CE.tmp' to '../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Lake.uasset'
+[2024.07.26-19.06.28:072][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.36 sec)
+[2024.07.26-19.06.28:073][202]AssetCheck: New page: 资产保存：Water_Material_Lake
+[2024.07.26-19.06.28:073][202]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Water/Materials/WaterSurface/Water_Material_Lake.Water_Material_Lake
+[2024.07.26-19.06.29:118][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-19.06.29:134][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/CaveTest" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/CaveTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.26-19.06.29:155][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.07.26-19.06.29:194][300]LogSavePackage: Moving output files for package: /Game/JR/Level/CaveTest
+[2024.07.26-19.06.29:194][300]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/CaveTest9EE95AE643F7CCE455FCC5BA53A93556.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/CaveTest.umap'
+[2024.07.26-19.06.29:198][300]LogFileHelpers: 所有文件已保存。
+[2024.07.26-19.06.29:199][300]LogFileHelpers: Saving map 'CaveTest' took 0.065
+[2024.07.26-19.06.29:202][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 2.44 sec)
+[2024.07.26-19.06.29:204][300]AssetCheck: New page: 资产保存：CaveTest
+[2024.07.26-19.06.29:204][300]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/JR/Level/CaveTest.CaveTest
+[2024.07.26-19.06.42:549][720]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large01_REDO.SM_Cave_Rock_Large01_REDO
+[2024.07.26-19.06.42:549][720]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large01_REDO.SM_Cave_Rock_Large01_REDO
+[2024.07.26-19.06.42:549][720]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large01_REDO.SM_Cave_Rock_Large01_REDO as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_0
+[2024.07.26-19.06.43:301][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large01_REDO.SM_Cave_Rock_Large01_REDO
+[2024.07.26-19.06.43:301][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large01_REDO.SM_Cave_Rock_Large01_REDO
+[2024.07.26-19.06.43:302][805]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large01_REDO.SM_Cave_Rock_Large01_REDO as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_1
+[2024.07.26-19.06.45:657][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large02.SM_Cave_Rock_Large02
+[2024.07.26-19.06.45:657][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large02.SM_Cave_Rock_Large02
+[2024.07.26-19.06.45:657][ 23]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large02.SM_Cave_Rock_Large02 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_2
+[2024.07.26-19.06.46:348][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large02.SM_Cave_Rock_Large02
+[2024.07.26-19.06.46:348][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large02.SM_Cave_Rock_Large02
+[2024.07.26-19.06.46:349][ 98]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large02.SM_Cave_Rock_Large02 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_3
+[2024.07.26-19.06.48:071][266]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Medium01.SM_Cave_Rock_Medium01
+[2024.07.26-19.06.48:071][266]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Medium01.SM_Cave_Rock_Medium01
+[2024.07.26-19.06.48:072][266]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Medium01.SM_Cave_Rock_Medium01 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_4
+[2024.07.26-19.06.48:565][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Medium01.SM_Cave_Rock_Medium01
+[2024.07.26-19.06.48:565][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Medium01.SM_Cave_Rock_Medium01
+[2024.07.26-19.06.48:566][321]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Medium01.SM_Cave_Rock_Medium01 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_5
+[2024.07.26-19.06.50:004][465]LogStaticMesh: Display: 正在构建静态网格体SM_Cave_Rock_Flat01……
+[2024.07.26-19.06.50:016][465]LogStaticMesh: Built static mesh [0.01s] /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Flat01.SM_Cave_Rock_Flat01
+[2024.07.26-19.06.50:218][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Flat01.SM_Cave_Rock_Flat01
+[2024.07.26-19.06.50:218][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Flat01.SM_Cave_Rock_Flat01
+[2024.07.26-19.06.50:219][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Flat01.SM_Cave_Rock_Flat01 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_6
+[2024.07.26-19.06.50:885][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Flat01.SM_Cave_Rock_Flat01
+[2024.07.26-19.06.50:885][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Flat01.SM_Cave_Rock_Flat01
+[2024.07.26-19.06.50:886][557]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Flat01.SM_Cave_Rock_Flat01 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_7
+[2024.07.26-19.06.52:548][730]Cmd: TRANSACTION UNDO
+[2024.07.26-19.06.52:548][730]LogEditorTransaction: Undo 创建Actor
+[2024.07.26-19.06.53:109][761]Cmd: TRANSACTION UNDO
+[2024.07.26-19.06.53:109][761]LogEditorTransaction: Undo 创建Actor
+[2024.07.26-19.06.54:248][873]LogStaticMesh: Display: 正在构建静态网格体SM_Cave_Rock_CurvedWall……
+[2024.07.26-19.06.54:254][873]LogStaticMesh: Built static mesh [0.01s] /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_CurvedWall.SM_Cave_Rock_CurvedWall
+[2024.07.26-19.06.54:377][881]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_CurvedWall.SM_Cave_Rock_CurvedWall
+[2024.07.26-19.06.54:377][881]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_CurvedWall.SM_Cave_Rock_CurvedWall
+[2024.07.26-19.06.54:377][881]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_CurvedWall.SM_Cave_Rock_CurvedWall as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_8
+[2024.07.26-19.06.54:958][928]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_CurvedWall.SM_Cave_Rock_CurvedWall
+[2024.07.26-19.06.54:958][928]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_CurvedWall.SM_Cave_Rock_CurvedWall
+[2024.07.26-19.06.54:959][928]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_CurvedWall.SM_Cave_Rock_CurvedWall as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_9
+[2024.07.26-19.06.56:265][ 72]LogStaticMesh: Display: 正在构建静态网格体SM_Cave_Rock_Ceiling……
+[2024.07.26-19.06.56:270][ 72]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Ceiling.SM_Cave_Rock_Ceiling
+[2024.07.26-19.06.56:362][ 76]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Ceiling.SM_Cave_Rock_Ceiling
+[2024.07.26-19.06.56:362][ 76]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Ceiling.SM_Cave_Rock_Ceiling
+[2024.07.26-19.06.56:363][ 76]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Ceiling.SM_Cave_Rock_Ceiling as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_10
+[2024.07.26-19.06.57:303][176]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Ceiling.SM_Cave_Rock_Ceiling
+[2024.07.26-19.06.57:304][176]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Ceiling.SM_Cave_Rock_Ceiling
+[2024.07.26-19.06.57:304][176]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Ceiling.SM_Cave_Rock_Ceiling as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_11
+[2024.07.26-19.06.58:683][331]LogStaticMesh: Display: 正在构建静态网格体SM_Cave_Rock_Small02……
+[2024.07.26-19.06.58:685][331]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Small02.SM_Cave_Rock_Small02
+[2024.07.26-19.06.58:826][340]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Small02.SM_Cave_Rock_Small02
+[2024.07.26-19.06.58:826][340]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Small02.SM_Cave_Rock_Small02
+[2024.07.26-19.06.58:826][340]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Small02.SM_Cave_Rock_Small02 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_12
+[2024.07.26-19.06.59:697][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Small02.SM_Cave_Rock_Small02
+[2024.07.26-19.06.59:697][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Small02.SM_Cave_Rock_Small02
+[2024.07.26-19.06.59:698][442]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Small02.SM_Cave_Rock_Small02 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_13
+[2024.07.26-19.07.00:297][509]Cmd: TRANSACTION UNDO
+[2024.07.26-19.07.00:297][509]LogEditorTransaction: Undo 创建Actor
+[2024.07.26-19.07.01:617][617]LogStaticMesh: Display: 正在构建静态网格体SM_Cave_Rock_Small01……
+[2024.07.26-19.07.01:619][617]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Small01.SM_Cave_Rock_Small01
+[2024.07.26-19.07.01:740][624]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Small01.SM_Cave_Rock_Small01
+[2024.07.26-19.07.01:740][624]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Small01.SM_Cave_Rock_Small01
+[2024.07.26-19.07.01:740][624]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Small01.SM_Cave_Rock_Small01 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_14
+[2024.07.26-19.07.02:063][658]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Small01.SM_Cave_Rock_Small01
+[2024.07.26-19.07.02:063][658]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Small01.SM_Cave_Rock_Small01
+[2024.07.26-19.07.02:064][658]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Small01.SM_Cave_Rock_Small01 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_15
+[2024.07.26-19.07.02:397][693]Cmd: TRANSACTION UNDO
+[2024.07.26-19.07.02:397][693]LogEditorTransaction: Undo 创建Actor
+[2024.07.26-19.07.03:707][831]LogStaticMesh: Display: 正在构建静态网格体SM_Cave_Rocks_Stalactite_01……
+[2024.07.26-19.07.03:751][834]LogStaticMesh: Built static mesh [0.04s] /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_01.SM_Cave_Rocks_Stalactite_01
+[2024.07.26-19.07.03:787][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_01.SM_Cave_Rocks_Stalactite_01
+[2024.07.26-19.07.03:787][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_01.SM_Cave_Rocks_Stalactite_01
+[2024.07.26-19.07.03:788][835]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_01.SM_Cave_Rocks_Stalactite_01 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_16
+[2024.07.26-19.07.04:642][927]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_01.SM_Cave_Rocks_Stalactite_01
+[2024.07.26-19.07.04:642][927]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_01.SM_Cave_Rocks_Stalactite_01
+[2024.07.26-19.07.04:642][927]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_01.SM_Cave_Rocks_Stalactite_01 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_17
+[2024.07.26-19.07.08:068][313]LogStaticMesh: Display: 正在构建静态网格体SM_Cave_Rocks_Stalactite_04……
+[2024.07.26-19.07.08:070][313]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_04.SM_Cave_Rocks_Stalactite_04
+[2024.07.26-19.07.08:165][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_04.SM_Cave_Rocks_Stalactite_04
+[2024.07.26-19.07.08:165][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_04.SM_Cave_Rocks_Stalactite_04
+[2024.07.26-19.07.08:165][318]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_04.SM_Cave_Rocks_Stalactite_04 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_18
+[2024.07.26-19.07.08:892][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_04.SM_Cave_Rocks_Stalactite_04
+[2024.07.26-19.07.08:892][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_04.SM_Cave_Rocks_Stalactite_04
+[2024.07.26-19.07.08:893][402]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_04.SM_Cave_Rocks_Stalactite_04 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_19
+[2024.07.26-19.07.10:765][617]Cmd: TRANSACTION UNDO
+[2024.07.26-19.07.10:765][617]LogEditorTransaction: Undo 点击元素
+[2024.07.26-19.07.21:034][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_StoneCluster03.SM_Cave_StoneCluster03
+[2024.07.26-19.07.21:034][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_StoneCluster03.SM_Cave_StoneCluster03
+[2024.07.26-19.07.21:035][738]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_StoneCluster03.SM_Cave_StoneCluster03 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_20
+[2024.07.26-19.07.21:714][817]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_StoneCluster03.SM_Cave_StoneCluster03
+[2024.07.26-19.07.21:714][817]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_StoneCluster03.SM_Cave_StoneCluster03
+[2024.07.26-19.07.21:715][817]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_StoneCluster03.SM_Cave_StoneCluster03 as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_21
+[2024.07.26-19.07.22:706][928]Cmd: TRANSACTION UNDO
+[2024.07.26-19.07.22:706][928]LogEditorTransaction: Undo 创建Actor
+[2024.07.26-19.07.23:877][ 27]LogStaticMesh: Display: 正在构建静态网格体SM_Cave_StoneCluster01_COMBINED……
+[2024.07.26-19.07.23:999][ 39]LogStaticMesh: Built static mesh [0.12s] /Game/JR/Environment/Meshes/Rocks/SM_Cave_StoneCluster01_COMBINED.SM_Cave_StoneCluster01_COMBINED
+[2024.07.26-19.07.24:007][ 39]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_StoneCluster01_COMBINED.SM_Cave_StoneCluster01_COMBINED
+[2024.07.26-19.07.24:007][ 39]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_StoneCluster01_COMBINED.SM_Cave_StoneCluster01_COMBINED
+[2024.07.26-19.07.24:008][ 39]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_StoneCluster01_COMBINED.SM_Cave_StoneCluster01_COMBINED as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_22
+[2024.07.26-19.07.24:472][ 86]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_StoneCluster01_COMBINED.SM_Cave_StoneCluster01_COMBINED
+[2024.07.26-19.07.24:472][ 86]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_StoneCluster01_COMBINED.SM_Cave_StoneCluster01_COMBINED
+[2024.07.26-19.07.24:473][ 86]LogActorFactory: Actor Factory spawned StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_StoneCluster01_COMBINED.SM_Cave_StoneCluster01_COMBINED as actor: StaticMeshActor /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.StaticMeshActor_23
+[2024.07.26-19.07.26:460][295]Cmd: TRANSACTION UNDO
+[2024.07.26-19.07.26:460][295]LogEditorTransaction: Undo 移动元素
+[2024.07.26-19.07.27:172][350]Cmd: TRANSACTION UNDO
+[2024.07.26-19.07.27:172][350]LogEditorTransaction: Undo 创建Actor
+[2024.07.26-19.07.31:701][821]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_RockFlats_Straight_01.SM_RockFlats_Straight_01
+[2024.07.26-19.07.31:705][821]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.07.31:705][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.07.32:021][821]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.07.26-19.07.43:037][ 60]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large02.SM_Cave_Rock_Large02
+[2024.07.26-19.07.43:041][ 60]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.07.43:041][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.07.43:343][ 60]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.07.26-19.07.47:766][574]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-0.882 Y=0.000 Z=-1.807, BoxExtent=(X=587.120 Y=544.516 Z=840.676), SphereRadius=(1161.010310)) and MeshDescription Bounds (Origin=X=0.000 Y=0.000 Z=0.000, BoxExtent=(X=585.853 Y=544.516 Z=839.793), SphereRadius=(933.067881)) is significative for StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large02.SM_Cave_Rock_Large02
+[2024.07.26-19.07.48:250][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-19.07.48:275][627]LogSavePackage: Moving output files for package: /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large02
+[2024.07.26-19.07.48:275][627]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/SM_Cave_Rock_Large02896084EF4E1CA07189F13B9410DF6908.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large02.uasset'
+[2024.07.26-19.07.48:279][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 2.47 sec)
+[2024.07.26-19.07.48:280][627]AssetCheck: New page: 资产保存：SM_Cave_Rock_Large02
+[2024.07.26-19.07.48:280][627]LogContentValidation: Display: 正在验证/Script/Engine.StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large02.SM_Cave_Rock_Large02
+[2024.07.26-19.07.49:185][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-19.07.49:208][735]LogSavePackage: Moving output files for package: /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large02
+[2024.07.26-19.07.49:208][735]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/SM_Cave_Rock_Large02A51C0E0F4A7AA19516378B90527310EF.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large02.uasset'
+[2024.07.26-19.07.49:212][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 2.50 sec)
+[2024.07.26-19.07.49:213][735]AssetCheck: New page: 资产保存：SM_Cave_Rock_Large02
+[2024.07.26-19.07.49:213][735]LogContentValidation: Display: 正在验证/Script/Engine.StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large02.SM_Cave_Rock_Large02
+[2024.07.26-19.07.53:161][154]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large01_REDO.SM_Cave_Rock_Large01_REDO
+[2024.07.26-19.07.53:190][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.07.53:190][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.07.53:500][154]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.07.26-19.07.54:490][230]LogViewport: Scene viewport resized to 1402x925, mode Windowed.
+[2024.07.26-19.07.54:540][232]LogViewport: Scene viewport resized to 965x604, mode Windowed.
+[2024.07.26-19.07.54:561][233]LogViewport: Scene viewport resized to 579x320, mode Windowed.
+[2024.07.26-19.07.54:576][234]LogViewport: Scene viewport resized to 577x319, mode Windowed.
+[2024.07.26-19.07.54:815][263]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.07.26-19.07.54:895][269]LogViewport: Scene viewport resized to 1402x925, mode Windowed.
+[2024.07.26-19.07.54:958][271]LogViewport: Scene viewport resized to 586x325, mode Windowed.
+[2024.07.26-19.07.54:971][272]LogViewport: Scene viewport resized to 577x319, mode Windowed.
+[2024.07.26-19.07.55:110][289]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.07.26-19.07.55:632][350]LogSlate: Window 'SM_Cave_Rock_Large01_REDO' being destroyed
+[2024.07.26-19.07.59:960][849]LogStaticMesh: Display: 正在构建静态网格体SM_Cave_Rock_Large01_REDO……
+[2024.07.26-19.07.59:978][849]LogStaticMesh: Display: 正在等待静态网格体就绪0/1（/Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large01_REDO）……
+[2024.07.26-19.07.59:982][849]LogStaticMesh: Built static mesh [0.02s] /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large01_REDO.SM_Cave_Rock_Large01_REDO
+[2024.07.26-19.07.59:986][849]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-2.793 Y=1.215 Z=0.000, BoxExtent=(X=376.411 Y=368.744 Z=698.928), SphereRadius=(875.304200)) and MeshDescription Bounds (Origin=X=-0.000 Y=0.000 Z=0.000, BoxExtent=(X=373.618 Y=369.960 Z=698.928), SphereRadius=(712.964510)) is significative for StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large01_REDO.SM_Cave_Rock_Large01_REDO
+[2024.07.26-19.08.00:474][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-19.08.00:502][901]LogSavePackage: Moving output files for package: /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large01_REDO
+[2024.07.26-19.08.00:503][901]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/SM_Cave_Rock_Large01_REDOB7D735A34EB077C3AEE19D845E2DAC01.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large01_REDO.uasset'
+[2024.07.26-19.08.00:509][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 2.54 sec)
+[2024.07.26-19.08.00:510][901]AssetCheck: New page: 资产保存：SM_Cave_Rock_Large01_REDO
+[2024.07.26-19.08.00:510][901]LogContentValidation: Display: 正在验证/Script/Engine.StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large01_REDO.SM_Cave_Rock_Large01_REDO
+[2024.07.26-19.08.01:487][ 15]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.08.01:487][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.08.02:354][114]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.08.02:354][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.08.03:375][232]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.08.03:375][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.08.04:290][340]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.08.04:290][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.08.05:884][528]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.08.05:884][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.08.08:334][763]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_CurvedWall.SM_Cave_Rock_CurvedWall
+[2024.07.26-19.08.08:361][763]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.08.08:361][763]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.08.08:653][763]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.07.26-19.08.09:885][858]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.08.09:890][858]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.3\Engine\Content\EngineMaterials\HighResolutionScreenshotMaskFunction.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	SceneTexture expressions cannot be used in opaque materials except if used with the Single Layer Water shading model.
+
+[2024.07.26-19.08.10:718][919]LogViewport: Scene viewport resized to 1402x925, mode Windowed.
+[2024.07.26-19.08.10:772][921]LogViewport: Scene viewport resized to 1010x637, mode Windowed.
+[2024.07.26-19.08.10:793][922]LogViewport: Scene viewport resized to 580x321, mode Windowed.
+[2024.07.26-19.08.10:807][923]LogViewport: Scene viewport resized to 577x319, mode Windowed.
+[2024.07.26-19.08.11:179][968]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.07.26-19.08.11:353][987]LogSlate: Window 'SM_Cave_Rock_CurvedWall' being destroyed
+[2024.07.26-19.08.14:149][259]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Large02.SM_Cave_Rock_Large02
+[2024.07.26-19.08.14:153][259]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.08.14:153][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.08.14:444][259]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.07.26-19.08.20:077][915]LogStaticMesh: Display: 正在构建静态网格体SM_Cave_Rock_CurvedWall……
+[2024.07.26-19.08.20:084][915]LogStaticMesh: Built static mesh [0.01s] /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_CurvedWall.SM_Cave_Rock_CurvedWall
+[2024.07.26-19.08.20:960][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-19.08.20:982][ 13]LogSavePackage: Moving output files for package: /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_CurvedWall
+[2024.07.26-19.08.20:983][ 13]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/SM_Cave_Rock_CurvedWall9764C1134154DEF704B2C7B8B6A47F7C.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Environment/Meshes/Rocks/SM_Cave_Rock_CurvedWall.uasset'
+[2024.07.26-19.08.20:986][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 2.56 sec)
+[2024.07.26-19.08.20:987][ 13]AssetCheck: New page: 资产保存：SM_Cave_Rock_CurvedWall
+[2024.07.26-19.08.20:987][ 13]LogContentValidation: Display: 正在验证/Script/Engine.StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_CurvedWall.SM_Cave_Rock_CurvedWall
+[2024.07.26-19.08.24:395][376]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Medium01.SM_Cave_Rock_Medium01
+[2024.07.26-19.08.24:399][376]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.08.24:400][376]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.08.24:701][376]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.07.26-19.08.30:054][  3]LogStaticMesh: Display: 正在构建静态网格体SM_Cave_Rock_Medium01……
+[2024.07.26-19.08.30:066][  3]LogStaticMesh: Built static mesh [0.01s] /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Medium01.SM_Cave_Rock_Medium01
+[2024.07.26-19.08.30:068][  3]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.153 Y=-1.812 Z=-1.002, BoxExtent=(X=167.163 Y=171.737 Z=227.897), SphereRadius=(330.717495)) and MeshDescription Bounds (Origin=X=0.000 Y=-0.000 Z=0.000, BoxExtent=(X=167.316 Y=170.558 Z=226.895), SphereRadius=(236.447315)) is significative for StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Medium01.SM_Cave_Rock_Medium01
+[2024.07.26-19.08.30:568][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-19.08.30:594][ 55]LogSavePackage: Moving output files for package: /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Medium01
+[2024.07.26-19.08.30:594][ 55]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/SM_Cave_Rock_Medium010F11BEE14EBF13F24B2163BB4D86F6BE.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Medium01.uasset'
+[2024.07.26-19.08.30:598][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 2.59 sec)
+[2024.07.26-19.08.30:599][ 55]AssetCheck: New page: 资产保存：SM_Cave_Rock_Medium01
+[2024.07.26-19.08.30:599][ 55]LogContentValidation: Display: 正在验证/Script/Engine.StaticMesh /Game/JR/Environment/Meshes/Rocks/SM_Cave_Rock_Medium01.SM_Cave_Rock_Medium01
+[2024.07.26-19.08.35:365][559]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.07.26-19.09.02:320][475]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.26-19.09.38:741][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.07.26-19.09.39:757][520]LogSlate: Window '保存内容' being destroyed
+[2024.07.26-19.09.39:761][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-19.09.39:779][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/CaveTest" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/CaveTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.26-19.09.39:802][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.07.26-19.09.39:834][520]LogSavePackage: Moving output files for package: /Game/JR/Level/CaveTest
+[2024.07.26-19.09.39:834][520]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/CaveTestF01B2AF0476E7A54734D9BAC05EC51AC.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/CaveTest.umap'
+[2024.07.26-19.09.39:837][520]LogFileHelpers: 所有文件已保存。
+[2024.07.26-19.09.39:839][520]LogFileHelpers: Saving map 'CaveTest' took 0.060
+[2024.07.26-19.09.39:843][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.67 sec)
+[2024.07.26-19.09.39:866][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.09.39:868][520]LogAssetEditorSubsystem: Opening Asset editor for World /Game/JR/Level/Cave.Cave
+[2024.07.26-19.09.39:868][520]Cmd: MAP LOAD FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Cave.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.26-19.09.39:868][520]LightingResults: New page: 光照构建
+[2024.07.26-19.09.39:869][520]LoadErrors: New page: 正在加载地图：Cave.umap
+[2024.07.26-19.09.39:888][520]LogWorld: UWorld::CleanupWorld for CaveTest, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.09.39:888][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.09.39:888][520]MapCheck: New page: 地图检测
+[2024.07.26-19.09.39:888][520]LightingResults: New page: 光照构建
+[2024.07.26-19.09.39:891][520]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.26-19.09.39:895][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.07.26-19.09.39:898][520]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.09.39:898][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.09.39:903][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.07.26-19.09.39:905][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.07.26-19.09.39:915][520]LogAudio: Display: Audio Device (ID: 1) registered with world 'Cave'.
+[2024.07.26-19.09.39:915][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.09.39:916][520]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.09.39:916][520]LogAIModule: Creating AISystem for world Cave
+[2024.07.26-19.09.39:931][520]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.26-19.09.39:935][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.07.26-19.09.39:939][520]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.26-19.09.39:939][520]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.074毫秒。
+[2024.07.26-19.09.39:950][520]AssetCheck: New page: 资产保存：CaveTest
+[2024.07.26-19.09.56:832][958]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/JR/Sequence/Cave.Cave
+[2024.07.26-19.09.56:932][958]LogViewport: Scene viewport resized to 1526x560, mode Windowed.
+[2024.07.26-19.10.18:027][884]LogViewport: Scene viewport resized to 1526x900, mode Windowed.
+[2024.07.26-19.10.23:003][328]LogSlate: Window '插件' being destroyed
+[2024.07.26-19.10.23:007][328]LogSlate: Window '插件' being destroyed
+[2024.07.26-19.10.23:007][328]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2024.07.26-19.10.28:066][875]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2024.07.26-19.10.28:066][875]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2024.07.26-19.10.28:069][875]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/JR/Level/Cave.Cave:PersistentLevel.WaterBodyLake_0
+[2024.07.26-19.10.28:071][875]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/JR/Level/Cave.Cave:PersistentLevel.WaterBodyLake_0
+[2024.07.26-19.10.29:852][ 26]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2024.07.26-19.10.29:852][ 26]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2024.07.26-19.10.29:856][ 26]LogWaterEditor: Warning: Could not find a suitable landscape to which to assign the water brush! Defaulting to the first landscape.
+[2024.07.26-19.10.29:856][ 26]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/JR/Level/Cave.Cave:PersistentLevel.WaterBodyLake_2
+[2024.07.26-19.10.29:862][ 26]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/JR/Level/Cave.Cave:PersistentLevel.WaterBodyLake_2
+[2024.07.26-19.10.32:963][248]Cmd: DELETE
+[2024.07.26-19.10.32:963][248]Cmd: ACTOR DELETE
+[2024.07.26-19.10.32:966][248]LogEditorActor: Deleted Actor: WaterBodyLake
+[2024.07.26-19.10.32:974][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.07.26-19.10.32:975][248]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.07.26-19.11.09:857][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.07.26-19.11.10:722][833]LogSlate: Window '保存内容' being destroyed
+[2024.07.26-19.11.10:727][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-19.11.10:738][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/Cave" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.26-19.11.10:759][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.07.26-19.11.10:790][833]LogSavePackage: Moving output files for package: /Game/JR/Level/Cave
+[2024.07.26-19.11.10:790][833]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/Cave9C0510C74382254BF474BE9F6CBAD9FF.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/Cave.umap'
+[2024.07.26-19.11.10:793][833]LogFileHelpers: 所有文件已保存。
+[2024.07.26-19.11.10:795][833]LogFileHelpers: Saving map 'Cave' took 0.056
+[2024.07.26-19.11.10:798][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.75 sec)
+[2024.07.26-19.11.10:823][833]LogStaticMesh: Display: 正在构建静态网格体WaterInfoMesh_32……
+[2024.07.26-19.11.10:823][833]LogStaticMesh: Display: 正在构建静态网格体WaterInfoDilatedMesh_33……
+[2024.07.26-19.11.10:824][833]LogTexture: Display: 正在构建纹理：/Game/JR/Level/CaveTest.CaveTest:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 512x512 x1x1x1）（预计所需内存：8.062492 MB），编码速度：Fast
+[2024.07.26-19.11.10:824][833]LogMaterial: LandscapeMaterialInstanceConstant_0-SM6-Default: MATSM_DA9E5626FCAE01590760E73DF088B4B4_PCD3D_SM6_1677771108__BC5N_NoCCBN_NoIris_DEV_SL_LWC2_PreExp_DBuf_UnInt_DXC0_VFO_SKYATM_SKYHF_SLWSMDLT_gs1_sdct_VT-0-0-1-0_MIN_DF_MS_T0_MS_T1_VED_Aniso-1_ComprOodle_Compr2_Lev4_ExclNonPipSh-1_LWC-2097152_4170038053_SLWDPDB6FCC63A5C44EA751315CBC3EF5DDED_Num_SM6_FL_0000000d_MFA_00000008_V_B6A0A753ED62499D8F30931E61FCAB05_0_DB3E993F4E2E98B305AD13B92D8C5DA5_A05E64F5EBD44C64BD24277E1DB8EBB792FC705C___TShadowDepthPSPixelShadowDepth_PerspectiveCorrect0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F1D3D5B5AF4A6D9ADE7391C36E24BD5A02F4BAF61_FLumenCardPS<false>0_0_0D25E975B63E407DD6CCDFE4BE03CD3DF848122EAC200DC679A410C1D8AF12A00F0044876007851BC_TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F5F6D284012F74DD2CFC45AAEF7606EB9D574CE14_TLightMapDensityPSTLightMapPolicyHQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523A6F8EDE90BA70B7A37D281661EEE0A46689F58DC5_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316FDA2E61854F80E0F91AE4D21CD0BB79DEC508B58_TBasePassPSTLightMapPolicyLQSkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B43165D7C57B710379F5E917839EBE882255DAA29AF8C_FLandscapeGrassWeightVS0_0_077204F3CE0C4459388557E81DE05752C3D36790F47C0690A66AEBFB62A3248327AB8B3401F67DA0D_TLightMapDensityVSFNoLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523ACE92005F85D160B7FACC465666DB47AD63FF14F7_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ0_0_067553F61B5470C464BC7EDD63DFF5C95B47B43168A2DFEB19681995675B59DD9556978C705446847_FHitProxyVS0_0_035066ECBC7ACAFB429F4F029D7F02660C69AAB0A52D62CB854026D5374EC4E8A00F09A8B1D3302B8_FHitProxyPS0_0_0E427B9138BA536F768FD73ED5EBD629434FE712F591AC01CFB8D5107B679B4AC4E6A2D25CEE2821A_FLandscapeGrassWeightPS0_0_077204F3CE0C4459388557E81DE05752C3D36790FB0B2C106151A19D437E6A81208418E180C9A94FC_TBasePassPSFNoLightMapPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316AA7AFF0410210797DA8DBFDCE4DCE7BD73648BF2_TShadowDepthVSVertexShadowDepth_OutputDepth0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14BF87CEE5C05DBEF9DC24EE7C0F6CF60618ED0AF73_FLandscapePhysicalMaterialPS0_0_020E1030965D9050BE2F2C5A9779AD02AE39502F1EB9F96523E4AC1F2529D86D76BDF869A153FCD4A_TLightMapDensityVSFDummyLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523A7B900AFE3BA5C55A32FF9BDFB44D3099D0056480_FLumenCardVS0_0_06124D99229D9D82CAA55E03425A9B9C0FD582F11CC43E529207B75738B69C90E919763AEC6FA2C8A_TShadowDepthPSPixelShadowDepth_VirtualShadowMap0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F44B0907314254191B2CD2AB68713039EAE1FF9DD_TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6C10A5156EA848D21CFBF57CE1492E504233A65909_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316825624867C61F3DE53BFA02233D16BD0B82A683D_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316899CC7EE1C80A173D8CCB78A28FD236F5F2A6D59_TBasePassPSTLightMapPolicyHQ0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316898AEA5165589EBF175921373DEB413FB7F34F22_FLumenCardPS<true>0_0_0D25E975B63E407DD6CCDFE4BE03CD3DF848122EA41F02910936F61C1A29244FA8FAF42D1FD72AAB7_TLightMapDensityPSFDummyLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523AED5721127772996308073D8F8E9736D48C4F7391_TBasePassPSFCachedPointIndirectLightingPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316B3D33D9C4C484723E672E95931A0FA27C9E8BBF0_TBasePassVSFCachedPointIndirectLightingPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6C63D4D5DEDB79A8344B5CE12C0658C647A5BAE06B_TBasePassPSFCachedPointIndirectLightingPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316141E3C1005BE613F467BBA75C870B8B0ABB5922D_FVelocityPS0_0_0578E1DFC040BAC3A5887E55EDAA7D7643A3C5703424AC0BEE559BE53397AB3C2FC130F4C90538CDB_TBasePassPSFCachedVolumeIndirectLightingPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431618CE64D2B7609F1F0EE3F172AE7FC4A9A40D6F19_TShadowDepthVSVertexShadowDepth_PerspectiveCorrect0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14B9396F3B9CB091423F82674523BC72504438631DE_TBasePassPSFCachedVolumeIndirectLightingPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431626DE51AC3872760C99EBD5D6428B8429D8654B09_TLightMapDensityPSFNoLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523A4E0A359E93DD037794AD9F3BFF2229E192443465_TLightMapDensityVSTLightMapPolicyLQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523A74E0F86ABDC86BABD4121E29A6C471D25795F1CD_TBasePassVSTLightMapPolicyHQ0_0_0F0765E97F80A58082337947551EC5C71F929BC6C5C554DFD6561B915DE45D241DDB26421D7D92563_FLandscapePhysicalMaterialVS0_0_020E1030965D9050BE2F2C5A9779AD02AE39502F111D5D4108CFDB5B6CBE8F3ADC4BE30C19859186B_TBasePassPSFNoLightMapPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431623AEF5FC38580B9DD682422255AA9EC62059678A_TBasePassVSFCachedVolumeIndirectLightingPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6C27C635E797CBD2619F0D39BEE7CD18E130F05E26_TShadowDepthPSPixelShadowDepth_OnePassPointLight0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F3189543DEB1E5450A6398EF5AC45B9A88DC3459B_TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ0_0_0F0765E97F80A58082337947551EC5C71F929BC6C6EF60DE3C0CA277D8FBECBFCB0B5E02D0DFD2B1A_TShadowDepthVSVertexShadowDepth_VirtualShadowMap0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14B1AB185D497ECF113738AA51019A3FA6D2691650F_TShadowDepthVSVertexShadowDepth_OnePassPointLight0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14B95DED9C73DC5F223F091004CF57334C099017CF0_TBasePassPSTLightMapPolicyLQ0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431673C1FA12A57DB2481B209BC117CF77EAF777E48D_TLightMapDensityPSTLightMapPolicyLQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523A60462DA9E455B94945F102A0576E9055D6B63400_TBasePassVSTLightMapPolicyLQ0_0_0F0765E97F80A58082337947551EC5C71F929BC6C15BE5EAD592CA3B8CD12BA18828DD2294877D9CA_TLightMapDensityVSTLightMapPolicyHQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523AE6479A49666B1424EE545AF64EE0BE2ED2964B8F_FDebugViewModePS0_0_0CCFA47BD7FA67195CAFC899931E16F7252214F020074CFCF9A67BE69CCE53140F9193C858B3006EA_TBasePassPSTLightMapPolicyHQSkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431634F240AFBCA6DC4F1885665AD7EBA74031254A3C_TDepthOnlyVS<false>0_0_0AE9B320E6FDD6F686446B30A2D13BF882DEB44F5B419F3F2046DFF016D3871BF8CD05BB9BBEB725B_FVelocityVS0_0_0578E1DFC040BAC3A5887E55EDAA7D7643A3C5703FAAC9A9CF81E62F8A1951C16ACC22C4E57F44BC0_FDebugViewModeVS0_0_0FB485F5439BD76F00750BD2209A5467644596B0496E81C67446F25BC2AFD5BB735073ABD7EC8AFCB_TBasePassVSFNoLightMapPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6CDDD2F7DEF5574DB43546D80EEC3EF30B7E0E7148_VelocityPipelineDD15B90C8D28726D03CD8AD4366F13DECAE368AB_DepthNoPixelPipelineAE9B320E6FDD6F686446B30A2D13BF882DEB44F5_FLandscapeXYOffsetVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FLandscapeVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_Nanite::FVertexFactory61FC001D468CB473F21C182F6ECFAE57E566561D_FLandscapeFixedGridVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C13F5F45F5620EF6411E27211E3D675CEA50B38DFBEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE3F5F45F5620EF6411E27211E3D675CEA50B38DFB3F5F45F5620EF6411E27211E3D675CEA50B38DFB_FLandscapeTileVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE2160101414144444144414441414141414444474010101010101311130010101424464512141414142402414141414141313304444444044444444444424341414141415101000313131312331314343414341314231214440444441313131314440310101015101010101013034343444144444444414151515101030010131151616161602404040404040404040404040404040434343434344444444444444444040404040404044444444404040404444444444443444444444444221444141444444424141414441444141414141313131313131314141444344444444414141414141414141414141434343444444444444434440444141414144414141414141434141414441414141444441444141314143244444444441412143434141413141414141412241434342424242424241434343414341414441313131313144424441214144313131414444444341212121212434414144444444142222121644210221212121213144444444444444405101510151011640444414150051515151616161616101010101015151121010011014101010101010101010151010101010103044510110101010101010101010101010101010101010101010106001404044414040421213131344141010101016101010101010101310100024313131416161611010101210101010151012004444444440434240444231510140444444444444430331313121433140404040404341444331433144433143314341434143314331314331432142413141414131314411144246444444044464444444444044401410101510151015100110101010101010101010101010100022224342423131313131100004441404041412101010000101010101010144444242313101014044444444444444444444444444444444444444444444444444444444444444444444444444040121213131222222220101010101011010101010404424241414121010101010101010141410101510101010004044444451510101000404040404040404040404040404343434343434344444343434340404040404040434343434040404044444242444444443444444242414121414444444241414143414141414141414141313131313131314443444444444141414141414141414141414343434444444444444344404441414141444141414141414341414144414141414444414141414141334144244444414141432341414141413141414142412343424242424242414343434143414144414141313131343244414141244141313134444443414141212124212131444444444141010151515151515151515151010101010101010101515151510101015101510151015101510151010101010101015101615101510151015101510151015101510151015101313151515151015101510151015101015101510164614141540141510101616173634043131313131313131442222314141410101010101110000001300000013000000130000001300000013000000130000001400000013000000130000000D0000000900000014000000100000000800000009000000080000002500000010000000100000001300000009000000080000000800000010000000100000001000000010000000100000000800000008000000080000001000000010000000D80000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001400000010000000080000000800000008000000130000000800000010000000080000000800000008000000080000000800000013000000100000001400000012000000130000001300000013000000130000001300000013000000130000000D0000001300000008000000100000001100000009000000080000000900000008000000080000001700000009000000080000000900000008000000090000000800000009000000080000000C000000090000000800000009000000090000000900000009000000090000000900000009000000080000000800000008000000080000000800000013000000100000001000000010000000170000001000000010000000100000001000000009000000090000000900000009000000100000001000000010000000100000001000000010000000080000000B00000013000000130000000900000009000000090000001400000008000000100000000D0000000C0000001000000008000000080000002D00000010000000100000001000000010000000100000001000000010000000090000000900000008000000080000000800000008000000130000000E0000000900000009000000090000000900000009000000090000000900000009000000090000000900000009000000090000000C000000080000000A0000000C00000013000000100000001000000010000000100000001000000010000000100000000D0000000F00000009000000080000000900000008000000090000000C000000080000001300000013000000260000000F000000140000000900000009000000090000000900000009000000100000001D000000130000001300000013000000130000001300000009000000080000000C0000000800000009000000080000000900000008000000140000001400000008000000100000000900000008000000130000000800000010000000080000000800000041010000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000140000001000000010000000100000001000000009000000433AFC833894B7681A1D3DDBA35F7F5A9509A89900000000000000000000000000000000000000006E2AD9D86FE73F9DF5783D7E68BD0915331357DA_001_101_5;
+[2024.07.26-19.11.10:825][833]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_3.WaterInfoMesh_32
+[2024.07.26-19.11.10:825][833]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_3.WaterInfoDilatedMesh_33
+[2024.07.26-19.11.10:828][833]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.11.10:830][833]LogAssetEditorSubsystem: Opening Asset editor for World /Game/JR/Level/CaveTest.CaveTest
+[2024.07.26-19.11.10:830][833]Cmd: MAP LOAD FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/CaveTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.26-19.11.10:830][833]LightingResults: New page: 光照构建
+[2024.07.26-19.11.10:830][833]LoadErrors: New page: 正在加载地图：CaveTest.umap
+[2024.07.26-19.11.10:881][833]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.11.10:881][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.11.10:881][833]MapCheck: New page: 地图检测
+[2024.07.26-19.11.10:881][833]LightingResults: New page: 光照构建
+[2024.07.26-19.11.10:884][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.26-19.11.10:887][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.07.26-19.11.10:999][833]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/33/ff/ce6c964e5157fe6734b7bc277bbf8ce87ac0.udd from '/Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_3.WaterInfoMesh_32'.
+[2024.07.26-19.11.11:000][833]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/e1/e3/2405f4c791c77d92983b40bd76fc8eb0a681.udd from '/Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_3.WaterInfoDilatedMesh_33'.
+[2024.07.26-19.11.11:011][833]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/ed/93/46dcfe711aa8693acf7df5d684fe5215deb3.udd from '/Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_3.WaterInfoDilatedMesh_33'.
+[2024.07.26-19.11.11:011][833]LogWorld: UWorld::CleanupWorld for CaveTest, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.11.11:011][833]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/12/3c/c920805ad94b314fddbf3bcfa9643890317b.udd from '/Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_3.WaterInfoMesh_32'.
+[2024.07.26-19.11.11:011][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.11.11:017][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.07.26-19.11.11:020][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.07.26-19.11.11:029][833]LogMaterial: LandscapeMaterialInstanceConstant_0-SM6-Default: MATSM_DA9E5626FCAE01590760E73DF088B4B4_PCD3D_SM6_1677771108__BC5N_NoCCBN_NoIris_DEV_SL_LWC2_PreExp_DBuf_UnInt_DXC0_VFO_SKYATM_SKYHF_SLWSMDLT_gs1_sdct_VT-0-0-1-0_MIN_DF_MS_T0_MS_T1_VED_Aniso-1_ComprOodle_Compr2_Lev4_ExclNonPipSh-1_LWC-2097152_4170038053_SLWDPDB6FCC63A5C44EA751315CBC3EF5DDED_Num_SM6_FL_0000000d_MFA_00000008_V_B6A0A753ED62499D8F30931E61FCAB05_0_DB3E993F4E2E98B305AD13B92D8C5DA5_A05E64F5EBD44C64BD24277E1DB8EBB792FC705C___TShadowDepthPSPixelShadowDepth_PerspectiveCorrect0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F1D3D5B5AF4A6D9ADE7391C36E24BD5A02F4BAF61_FLumenCardPS<false>0_0_0D25E975B63E407DD6CCDFE4BE03CD3DF848122EAC200DC679A410C1D8AF12A00F0044876007851BC_TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F5F6D284012F74DD2CFC45AAEF7606EB9D574CE14_TLightMapDensityPSTLightMapPolicyHQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523A6F8EDE90BA70B7A37D281661EEE0A46689F58DC5_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316FDA2E61854F80E0F91AE4D21CD0BB79DEC508B58_TBasePassPSTLightMapPolicyLQSkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B43165D7C57B710379F5E917839EBE882255DAA29AF8C_FLandscapeGrassWeightVS0_0_077204F3CE0C4459388557E81DE05752C3D36790F47C0690A66AEBFB62A3248327AB8B3401F67DA0D_TLightMapDensityVSFNoLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523ACE92005F85D160B7FACC465666DB47AD63FF14F7_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ0_0_067553F61B5470C464BC7EDD63DFF5C95B47B43168A2DFEB19681995675B59DD9556978C705446847_FHitProxyVS0_0_035066ECBC7ACAFB429F4F029D7F02660C69AAB0A52D62CB854026D5374EC4E8A00F09A8B1D3302B8_FHitProxyPS0_0_0E427B9138BA536F768FD73ED5EBD629434FE712F591AC01CFB8D5107B679B4AC4E6A2D25CEE2821A_FLandscapeGrassWeightPS0_0_077204F3CE0C4459388557E81DE05752C3D36790FB0B2C106151A19D437E6A81208418E180C9A94FC_TBasePassPSFNoLightMapPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316AA7AFF0410210797DA8DBFDCE4DCE7BD73648BF2_TShadowDepthVSVertexShadowDepth_OutputDepth0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14BF87CEE5C05DBEF9DC24EE7C0F6CF60618ED0AF73_FLandscapePhysicalMaterialPS0_0_020E1030965D9050BE2F2C5A9779AD02AE39502F1EB9F96523E4AC1F2529D86D76BDF869A153FCD4A_TLightMapDensityVSFDummyLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523A7B900AFE3BA5C55A32FF9BDFB44D3099D0056480_FLumenCardVS0_0_06124D99229D9D82CAA55E03425A9B9C0FD582F11CC43E529207B75738B69C90E919763AEC6FA2C8A_TShadowDepthPSPixelShadowDepth_VirtualShadowMap0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F44B0907314254191B2CD2AB68713039EAE1FF9DD_TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6C10A5156EA848D21CFBF57CE1492E504233A65909_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316825624867C61F3DE53BFA02233D16BD0B82A683D_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316899CC7EE1C80A173D8CCB78A28FD236F5F2A6D59_TBasePassPSTLightMapPolicyHQ0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316898AEA5165589EBF175921373DEB413FB7F34F22_FLumenCardPS<true>0_0_0D25E975B63E407DD6CCDFE4BE03CD3DF848122EA41F02910936F61C1A29244FA8FAF42D1FD72AAB7_TLightMapDensityPSFDummyLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523AED5721127772996308073D8F8E9736D48C4F7391_TBasePassPSFCachedPointIndirectLightingPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316B3D33D9C4C484723E672E95931A0FA27C9E8BBF0_TBasePassVSFCachedPointIndirectLightingPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6C63D4D5DEDB79A8344B5CE12C0658C647A5BAE06B_TBasePassPSFCachedPointIndirectLightingPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B4316141E3C1005BE613F467BBA75C870B8B0ABB5922D_FVelocityPS0_0_0578E1DFC040BAC3A5887E55EDAA7D7643A3C5703424AC0BEE559BE53397AB3C2FC130F4C90538CDB_TBasePassPSFCachedVolumeIndirectLightingPolicy0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431618CE64D2B7609F1F0EE3F172AE7FC4A9A40D6F19_TShadowDepthVSVertexShadowDepth_PerspectiveCorrect0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14B9396F3B9CB091423F82674523BC72504438631DE_TBasePassPSFCachedVolumeIndirectLightingPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431626DE51AC3872760C99EBD5D6428B8429D8654B09_TLightMapDensityPSFNoLightMapPolicy0_0_0410332860002B35DEDDE2E984567E5B7F27B523A4E0A359E93DD037794AD9F3BFF2229E192443465_TLightMapDensityVSTLightMapPolicyLQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523A74E0F86ABDC86BABD4121E29A6C471D25795F1CD_TBasePassVSTLightMapPolicyHQ0_0_0F0765E97F80A58082337947551EC5C71F929BC6C5C554DFD6561B915DE45D241DDB26421D7D92563_FLandscapePhysicalMaterialVS0_0_020E1030965D9050BE2F2C5A9779AD02AE39502F111D5D4108CFDB5B6CBE8F3ADC4BE30C19859186B_TBasePassPSFNoLightMapPolicySkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431623AEF5FC38580B9DD682422255AA9EC62059678A_TBasePassVSFCachedVolumeIndirectLightingPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6C27C635E797CBD2619F0D39BEE7CD18E130F05E26_TShadowDepthPSPixelShadowDepth_OnePassPointLight0_0_0BC5A599B5C56BF447371F2EEB6380AD10D05029F3189543DEB1E5450A6398EF5AC45B9A88DC3459B_TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ0_0_0F0765E97F80A58082337947551EC5C71F929BC6C6EF60DE3C0CA277D8FBECBFCB0B5E02D0DFD2B1A_TShadowDepthVSVertexShadowDepth_VirtualShadowMap0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14B1AB185D497ECF113738AA51019A3FA6D2691650F_TShadowDepthVSVertexShadowDepth_OnePassPointLight0_0_023B8D8A0B296C7EA81C7449673557E8484B1F14B95DED9C73DC5F223F091004CF57334C099017CF0_TBasePassPSTLightMapPolicyLQ0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431673C1FA12A57DB2481B209BC117CF77EAF777E48D_TLightMapDensityPSTLightMapPolicyLQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523A60462DA9E455B94945F102A0576E9055D6B63400_TBasePassVSTLightMapPolicyLQ0_0_0F0765E97F80A58082337947551EC5C71F929BC6C15BE5EAD592CA3B8CD12BA18828DD2294877D9CA_TLightMapDensityVSTLightMapPolicyHQ0_0_0410332860002B35DEDDE2E984567E5B7F27B523AE6479A49666B1424EE545AF64EE0BE2ED2964B8F_FDebugViewModePS0_0_0CCFA47BD7FA67195CAFC899931E16F7252214F020074CFCF9A67BE69CCE53140F9193C858B3006EA_TBasePassPSTLightMapPolicyHQSkylight0_0_067553F61B5470C464BC7EDD63DFF5C95B47B431634F240AFBCA6DC4F1885665AD7EBA74031254A3C_TDepthOnlyVS<false>0_0_0AE9B320E6FDD6F686446B30A2D13BF882DEB44F5B419F3F2046DFF016D3871BF8CD05BB9BBEB725B_FVelocityVS0_0_0578E1DFC040BAC3A5887E55EDAA7D7643A3C5703FAAC9A9CF81E62F8A1951C16ACC22C4E57F44BC0_FDebugViewModeVS0_0_0FB485F5439BD76F00750BD2209A5467644596B0496E81C67446F25BC2AFD5BB735073ABD7EC8AFCB_TBasePassVSFNoLightMapPolicy0_0_0F0765E97F80A58082337947551EC5C71F929BC6CDDD2F7DEF5574DB43546D80EEC3EF30B7E0E7148_VelocityPipelineDD15B90C8D28726D03CD8AD4366F13DECAE368AB_DepthNoPixelPipelineAE9B320E6FDD6F686446B30A2D13BF882DEB44F5_FLandscapeXYOffsetVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FLandscapeVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_Nanite::FVertexFactory61FC001D468CB473F21C182F6ECFAE57E566561D_FLandscapeFixedGridVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C13F5F45F5620EF6411E27211E3D675CEA50B38DFBEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE3F5F45F5620EF6411E27211E3D675CEA50B38DFB3F5F45F5620EF6411E27211E3D675CEA50B38DFB_FLandscapeTileVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE2160101414144444144414441414141414444474010101010101311130010101424464512141414142402414141414141313304444444044444444444424341414141415101000313131312331314343414341314231214440444441313131314440310101015101010101013034343444144444444414151515101030010131151616161602404040404040404040404040404040434343434344444444444444444040404040404044444444404040404444444444443444444444444221444141444444424141414441444141414141313131313131314141444344444444414141414141414141414141434343444444444444434440444141414144414141414141434141414441414141444441444141314143244444444441412143434141413141414141412241434342424242424241434343414341414441313131313144424441214144313131414444444341212121212434414144444444142222121644210221212121213144444444444444405101510151011640444414150051515151616161616101010101015151121010011014101010101010101010151010101010103044510110101010101010101010101010101010101010101010106001404044414040421213131344141010101016101010101010101310100024313131416161611010101210101010151012004444444440434240444231510140444444444444430331313121433140404040404341444331433144433143314341434143314331314331432142413141414131314411144246444444044464444444444044401410101510151015100110101010101010101010101010100022224342423131313131100004441404041412101010000101010101010144444242313101014044444444444444444444444444444444444444444444444444444444444444444444444444040121213131222222220101010101011010101010404424241414121010101010101010141410101510101010004044444451510101000404040404040404040404040404343434343434344444343434340404040404040434343434040404044444242444444443444444242414121414444444241414143414141414141414141313131313131314443444444444141414141414141414141414343434444444444444344404441414141444141414141414341414144414141414444414141414141334144244444414141432341414141413141414142412343424242424242414343434143414144414141313131343244414141244141313134444443414141212124212131444444444141010151515151515151515151010101010101010101515151510101015101510151015101510151010101010101015101615101510151015101510151015101510151015101313151515151015101510151015101015101510164614141540141510101616173634043131313131313131442222314141410101010101110000001300000013000000130000001300000013000000130000001400000013000000130000000D0000000900000014000000100000000800000009000000080000002500000010000000100000001300000009000000080000000800000010000000100000001000000010000000100000000800000008000000080000001000000010000000D80000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001400000010000000080000000800000008000000130000000800000010000000080000000800000008000000080000000800000013000000100000001400000012000000130000001300000013000000130000001300000013000000130000000D0000001300000008000000100000001100000009000000080000000900000008000000080000001700000009000000080000000900000008000000090000000800000009000000080000000C000000090000000800000009000000090000000900000009000000090000000900000009000000080000000800000008000000080000000800000013000000100000001000000010000000170000001000000010000000100000001000000009000000090000000900000009000000100000001000000010000000100000001000000010000000080000000B00000013000000130000000900000009000000090000001400000008000000100000000D0000000C0000001000000008000000080000002D00000010000000100000001000000010000000100000001000000010000000090000000900000008000000080000000800000008000000130000000E0000000900000009000000090000000900000009000000090000000900000009000000090000000900000009000000090000000C000000080000000A0000000C00000013000000100000001000000010000000100000001000000010000000100000000D0000000F00000009000000080000000900000008000000090000000C000000080000001300000013000000260000000F000000140000000900000009000000090000000900000009000000100000001D000000130000001300000013000000130000001300000009000000080000000C0000000800000009000000080000000900000008000000140000001400000008000000100000000900000008000000130000000800000010000000080000000800000041010000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000140000001000000010000000100000001000000009000000433AFC833894B7681A1D3DDBA35F7F5A9509A89900000000000000000000000000000000000000006E2AD9D86FE73F9DF5783D7E68BD0915331357DA_001_101_5;
+[2024.07.26-19.11.11:032][833]LogAudio: Display: Audio Device (ID: 1) registered with world 'CaveTest'.
+[2024.07.26-19.11.11:032][833]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.11.11:033][833]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.11.11:033][833]LogAIModule: Creating AISystem for world CaveTest
+[2024.07.26-19.11.11:060][833]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.26-19.11.11:078][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.07.26-19.11.11:082][833]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.26-19.11.11:082][833]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.069毫秒。
+[2024.07.26-19.11.11:093][833]AssetCheck: New page: 资产保存：Cave
+[2024.07.26-19.11.49:131][986]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.26-19.12.01:847][190]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.26-19.12.03:493][349]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.26-19.14.08:658][953]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.26-19.14.10:015][101]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.26-19.14.51:839][440]Cmd: TRANSACTION UNDO
+[2024.07.26-19.14.51:839][440]LogEditorTransaction: Undo 移动元素
+[2024.07.26-19.17.53:639][872]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.26-19.17.55:115][993]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.26-19.18.04:452][969]Cmd: TRANSACTION UNDO
+[2024.07.26-19.18.04:452][969]LogEditorTransaction: Undo 缩放元素
+[2024.07.26-19.19.05:551][311]LogStaticMesh: Display: 正在构建静态网格体WaterInfoMesh_0……
+[2024.07.26-19.19.05:551][311]LogStaticMesh: Display: 正在构建静态网格体WaterInfoDilatedMesh_1……
+[2024.07.26-19.19.05:553][311]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_3.WaterInfoDilatedMesh_1
+[2024.07.26-19.19.05:553][311]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_3.WaterInfoMesh_0
+[2024.07.26-19.19.06:931][433]LogStaticMesh: Display: 正在构建静态网格体WaterInfoMesh_2……
+[2024.07.26-19.19.06:931][433]LogStaticMesh: Display: 正在构建静态网格体WaterInfoDilatedMesh_3……
+[2024.07.26-19.19.06:932][433]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_3.WaterInfoMesh_2
+[2024.07.26-19.19.06:932][433]LogStaticMesh: Built static mesh [0.00s] /Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_3.WaterInfoDilatedMesh_3
+[2024.07.26-19.19.07:286][466]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/f4/c4/c3cd3d64ecc5892ce9e43bea2709ee7f9a02.udd from '/Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_3.WaterInfoMesh_4'.
+[2024.07.26-19.19.07:286][466]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/f4/c4/c3cd3d64ecc5892ce9e43bea2709ee7f9a02.udd from '/Game/JR/Level/CaveTest.CaveTest:PersistentLevel.WaterBodyLake_3.WaterInfoMesh_6'.
+[2024.07.26-19.22.07:608][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.26-19.22.07:608][604]PIE: New page: PIE会话：CaveTest（2024年7月26日 上午7:22:07）
+[2024.07.26-19.22.07:608][604]LogPlayLevel: Creating play world package: /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.22.07:616][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008744s)
+[2024.07.26-19.22.07:617][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JR/Level/CaveTest.CaveTest to /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest (0.008775s)
+[2024.07.26-19.22.07:629][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.07.26-19.22.07:632][604]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-19.22.07:632][604]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-19.22.07:633][604]LogAIModule: Creating AISystem for world CaveTest
+[2024.07.26-19.22.07:633][604]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2024.07.26-19.22.07:633][604]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.07.26-19.22.07:633][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.26-19.22.07:633][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.26-19.22.07:633][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.26-19.22.07:633][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.26-19.22.07:633][604]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.26-19.22.07:633][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.26-19.22.07:633][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.26-19.22.07:633][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.26-19.22.07:633][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.26-19.22.07:633][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.26-19.22.07:633][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.26-19.22.07:635][604]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.26-19.22.07:650][604]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.26-19.22.07:650][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.26-19.22.07:650][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.26-19.22.07:650][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.26-19.22.07:650][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.07.26-19.22.07:650][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.07.26-19.22.07:651][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.07.26-19.22.07:651][604]LogInit: FAudioDevice initialized with ID 11.
+[2024.07.26-19.22.07:651][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.07.26-19.22.07:651][604]LogAudio: Display: Audio Device (ID: 11) registered with world 'CaveTest'.
+[2024.07.26-19.22.07:651][604]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.07.26-19.22.07:653][604]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.26-19.22.07:656][604]LogWorld: Bringing World /Game/JR/Level/UEDPIE_0_CaveTest.CaveTest up for play (max tick rate 0) at 2024.07.26-13.22.07
+[2024.07.26-19.22.07:657][604]LogWorld: Bringing up level for play took: 0.003041
+[2024.07.26-19.22.07:658][604]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.07.26-19.22.07:661][604]PIE: 登陆的服务器
+[2024.07.26-19.22.07:661][604]PIE: PIE总开始时间：0.054秒。
+[2024.07.26-19.22.22:814][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.22.22:814][355]LogWorld: BeginTearingDown for /Game/JR/Level/UEDPIE_0_CaveTest
+[2024.07.26-19.22.22:814][355]LogWorld: UWorld::CleanupWorld for CaveTest, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-19.22.22:815][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.22.22:817][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.26-19.22.22:818][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-19.22.22:821][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.26-19.22.22:821][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.07.26-19.22.22:821][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.07.26-19.22.22:823][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.07.26-19.22.22:825][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-19.22.22:827][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.07.26-19.22.22:905][357]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.07.26-19.23.16:032][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.07.26-19.23.16:071][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JR/Level/CaveTest_Auto1
+[2024.07.26-19.23.16:071][579]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/CaveTest_Auto1FA2B04B847A174747F7F37A505406442.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/Autosaves/Game/JR/Level/CaveTest_Auto1.umap'
+[2024.07.26-19.23.16:072][579]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/Autosaves/Game/JR/Level/CaveTest_Auto1.umap is in the /Temp path, will not scan.
+[2024.07.26-19.23.16:072][579]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/JR/Level/CaveTest_Auto1 is in the /Temp path, will not scan.
+[2024.07.26-19.23.16:072][579]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/JR/Level/CaveTest_Auto1 is in the /Temp path, will not scan.
+[2024.07.26-19.23.16:072][579]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/JR/Level/CaveTest' took 0.042
+[2024.07.26-19.23.16:072][579]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2024.07.26-19.23.21:803][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.07.26-19.23.22:579][199]LogSlate: Window '保存内容' being destroyed
+[2024.07.26-19.23.22:583][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-19.23.22:598][199]LogTexture: Display: 正在构建纹理：/Game/JR/Level/CaveTest.CaveTest:PersistentLevel.Landscape_0.Heightmap_0 （BGRA8, 512x512 x1x1x1）（预计所需内存：8.062492 MB），编码速度：Fast
+[2024.07.26-19.23.22:598][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JR/Level/CaveTest" FILE="../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/CaveTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.26-19.23.22:619][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.07.26-19.23.22:657][199]LogSavePackage: Moving output files for package: /Game/JR/Level/CaveTest
+[2024.07.26-19.23.22:657][199]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Saved/CaveTest1028FA8E4E9A2FCFE30518995CF64196.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Jasmine_R/Content/JR/Level/CaveTest.umap'
+[2024.07.26-19.23.22:660][199]LogFileHelpers: 所有文件已保存。
+[2024.07.26-19.23.22:662][199]LogFileHelpers: Saving map 'CaveTest' took 0.064
+[2024.07.26-19.23.22:665][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.83 sec)
+[2024.07.26-19.23.22:667][199]AssetCheck: New page: 资产保存：CaveTest
+[2024.07.26-19.23.22:667][199]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/JR/Level/CaveTest.CaveTest
